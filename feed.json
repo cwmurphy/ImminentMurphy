@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/01/04/remember-plans-are.html",
+				
+				"content_html": "<p>Remember: plans are not chiseled into stone.</p>\n<p>Expect challenges during planning. It’s part of the process.</p>\n<p>Stay agile and ready to adapt. Face challenges head-on, learn, and use those lessons to refine your processes.</p>\n<p>#ProductManagement</p>\n",
+				"content_text": "Remember: plans are not chiseled into stone. \r\n\r\nExpect challenges during planning. It’s part of the process. \r\n\r\nStay agile and ready to adapt. Face challenges head-on, learn, and use those lessons to refine your processes.\r\n\r\n#ProductManagement\r\n\r\n",
+				"date_published": "2024-01-04T07:06:01-05:00",
+				"url": "https://www.imminentmurphy.com/2024/01/04/remember-plans-are.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/01/03/success-is-the.html",
+				
+				"content_html": "<p>“Success is the ability to go from failure to failure without losing your enthusiasm.&quot;</p>\n<ul>\n<li>Winston Churchill</li>\n</ul>\n<p>#Quotes</p>\n",
+				"content_text": "“Success is the ability to go from failure to failure without losing your enthusiasm.\" \n\n- Winston Churchill\n\n#Quotes\n",
+				"date_published": "2024-01-03T08:30:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/01/03/success-is-the.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/01/02/today-is-the.html",
+				
+				"content_html": "<p>Today is the ideal time to review your product’s performance last year.</p>\n<p>What were the successes and challenges? Remember to include things like sales performance, client feedback, and any market changes.</p>\n<p>Now define what success looks like for the coming year and realign your roadmap as needed.</p>\n<p>#ProductManagement</p>\n",
+				"content_text": "Today is the ideal time to review your product’s performance last year.\n\nWhat were the successes and challenges? Remember to include things like sales performance, client feedback, and any market changes.\n\nNow define what success looks like for the coming year and realign your roadmap as needed.\n\n#ProductManagement\n",
+				"date_published": "2024-01-02T09:30:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/01/02/today-is-the.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/01/01/new-year-new.html",
+				
+				"content_html": "<p>New year, new (and old) challenges in Product Management.</p>\n<p>Stay ahead of the curve by continuously learning and adapting. This takes deliberate, focused effort.</p>\n<p>Remember: the best products solve real problems for real people.</p>\n<p>#ProductManagement</p>\n",
+				"content_text": "New year, new (and old) challenges in Product Management.\n\nStay ahead of the curve by continuously learning and adapting. This takes deliberate, focused effort.\n\nRemember: the best products solve real problems for real people.\n\n#ProductManagement\n",
+				"date_published": "2024-01-01T08:30:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/01/01/new-year-new.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2023/12/31/the-life-that.html",
+				
+				"content_html": "<p>“The life that is worth living, and the only life that is worth living, is the life of effort, the life of effort to attain what is worth striving for“</p>\n<p>-Theodore Roosevelt</p>\n<p>#Quotes</p>\n",
+				"content_text": "“The life that is worth living, and the only life that is worth living, is the life of effort, the life of effort to attain what is worth striving for“\n\n-Theodore Roosevelt\n\n#Quotes\n",
+				"date_published": "2023-12-31T11:00:00-05:00",
+				"url": "https://www.imminentmurphy.com/2023/12/31/the-life-that.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2023/12/30/let-the-future.html",
+				
+				"content_html": "<p>“Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I really worked, is mine.”</p>\n<p>-Nikola Tesla</p>\n<p>#Quotes</p>\n",
+				"content_text": "“Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I really worked, is mine.” \n\n-Nikola Tesla\n\n#Quotes\n",
+				"date_published": "2023-12-30T11:00:00-05:00",
+				"url": "https://www.imminentmurphy.com/2023/12/30/let-the-future.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2023/12/29/if-you-lead.html",
 				
 				"content_html": "<p>If you lead a team of product managers, remember that these are the two most important things you provide for them each day:</p>\n<ol>\n<li>psychological safety</li>\n<li>hope for a better tomorrow</li>\n</ol>\n<p>#ProductManagement</p>\n",
