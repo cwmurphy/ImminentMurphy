@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/01/09/do-you-not.html",
+				
+				"content_html": "<p>“Do you not adapt because you cannot conceptualize faster than the enemy’s adaptation?”\n-General James Mattis</p>\n<p>Remember: chaotic situations in product management can lead to opportunities for improvement, innovation, and growth.</p>\n<p>Stay calm. Stay focused. Lead by example.</p>\n",
+				"content_text": "“Do you not adapt because you cannot conceptualize faster than the enemy’s adaptation?”\r\n-General James Mattis\r\n\r\nRemember: chaotic situations in product management can lead to opportunities for improvement, innovation, and growth. \r\n\r\nStay calm. Stay focused. Lead by example.\n",
+				"date_published": "2024-01-09T07:26:09-05:00",
+				"url": "https://www.imminentmurphy.com/2024/01/09/do-you-not.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/01/08/if-every-day.html",
+				
+				"content_html": "<p>If every day is spent pingponging back and forth between raging fires as a product manager, something is broken.</p>\n<p>It’s your job to fix that.</p>\n<p>If that sounds overwhelming, start by looking for the (tiny) incremental improvements that will persist over time.</p>\n<p>#ProductMamagement</p>\n",
+				"content_text": "If every day is spent pingponging back and forth between raging fires as a product manager, something is broken.\r\n\r\nIt’s your job to fix that.\r\n\r\nIf that sounds overwhelming, start by looking for the (tiny) incremental improvements that will persist over time.\r\n\r\n#ProductMamagement\n",
+				"date_published": "2024-01-08T06:30:47-05:00",
+				"url": "https://www.imminentmurphy.com/2024/01/08/if-every-day.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/01/07/some-people-are.html",
+				
+				"content_html": "<p>“Some people are always grumbling because roses have thorns. I am thankful that thorns have roses.&quot;</p>\n<p>-Alphonse Karr</p>\n<p>#Quotes</p>\n",
+				"content_text": "“Some people are always grumbling because roses have thorns. I am thankful that thorns have roses.\"\n\n-Alphonse Karr\n\n#Quotes\n",
+				"date_published": "2024-01-07T10:30:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/01/07/some-people-are.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/01/06/our-plans-miscarry.html",
+				
+				"content_html": "<p>“Our plans miscarry if they have no aim.  When a man does not know what harbor he is making for, no wind is the right wind.”</p>\n<p>-Seneca</p>\n<p>#Quotes</p>\n",
+				"content_text": "“Our plans miscarry if they have no aim.  When a man does not know what harbor he is making for, no wind is the right wind.” \r\n\r\n-Seneca\r\n\r\n#Quotes\n",
+				"date_published": "2024-01-06T09:43:54-05:00",
+				"url": "https://www.imminentmurphy.com/2024/01/06/our-plans-miscarry.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/01/05/each-and-every.html",
+				
+				"content_html": "<p>Each and every quarterly release plan should have clearly defined goals and success metrics.</p>\n<p>Know what success looks like for your product and how you’ll measure it once you arrive at the end of the interval.</p>\n<p>Just reaching the end isn’t nearly enough.</p>\n<p>#ProductManagement</p>\n",
+				"content_text": "Each and every quarterly release plan should have clearly defined goals and success metrics.\n\nKnow what success looks like for your product and how you’ll measure it once you arrive at the end of the interval.\n\nJust reaching the end isn’t nearly enough.\n\n#ProductManagement\n",
+				"date_published": "2024-01-05T09:30:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/01/05/each-and-every.html",
+				"tags": ["Product Management"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/01/04/remember-plans-are.html",
 				
 				"content_html": "<p>Remember: plans are not chiseled into stone.</p>\n<p>Expect challenges during planning. It’s part of the process.</p>\n<p>Stay agile and ready to adapt. Face challenges head-on, learn, and use those lessons to refine your processes.</p>\n<p>#ProductManagement</p>\n",
