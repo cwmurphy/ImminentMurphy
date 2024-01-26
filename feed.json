@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/01/25/remember-communicate-clearly.html",
+				
+				"content_html": "<p>Remember:</p>\n<p>Communicate clearly. \nCommunicate clearly.\nCommunicate clearly.</p>\n",
+				"content_text": "Remember: \r\n\r\nCommunicate clearly. \r\nCommunicate clearly.\r\nCommunicate clearly.\n",
+				"date_published": "2024-01-25T20:08:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/01/25/remember-communicate-clearly.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/01/24/i-asked-google.html",
+				
+				"content_html": "<p>I asked Google Bard to tell me how to be the best possible product manager in a single sentence:</p>\n<p>“Master the art of empathy, the science of data, and the power of collaboration, all with a relentless drive for making people&rsquo;s lives better.”</p>\n",
+				"content_text": "I asked Google Bard to tell me how to be the best possible product manager in a single sentence:\n\n“Master the art of empathy, the science of data, and the power of collaboration, all with a relentless drive for making people's lives better.”\n",
+				"date_published": "2024-01-24T09:00:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/01/24/i-asked-google.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/01/23/i-asked-copilot.html",
+				
+				"content_html": "<p>I asked CoPilot: tell me how to be the best possible product manager in a single sentence:</p>\n<p>“To be the best possible product manager, you need to prioritize ruthlessly, know the lay of the land, empower your team, influence without authority, and develop a thick skin.”</p>\n<p>It cited 3 references.</p>\n",
+				"content_text": "I asked CoPilot: tell me how to be the best possible product manager in a single sentence:\n\n“To be the best possible product manager, you need to prioritize ruthlessly, know the lay of the land, empower your team, influence without authority, and develop a thick skin.”\n\nIt cited 3 references.\n",
+				"date_published": "2024-01-23T09:00:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/01/23/i-asked-copilot.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/01/22/i-asked-chatgpt.html",
+				
+				"content_html": "<p>I asked ChatGPT (3.5) to tell me how to be the best possible product manager in a single sentence:</p>\n<p>“Anticipate user needs, communicate effectively, and prioritize features to deliver a successful product.”</p>\n",
+				"content_text": "I asked ChatGPT (3.5) to tell me how to be the best possible product manager in a single sentence:\n\n“Anticipate user needs, communicate effectively, and prioritize features to deliver a successful product.”\n",
+				"date_published": "2024-01-22T09:00:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/01/22/i-asked-chatgpt.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/01/21/we-will-all.html",
+				
+				"content_html": "<p>“We will all experience one pain or the other - the pain of discipline or the pain of regret - but the difference is that the pain of discipline weighs only ounces while the pain of regret weighs tons.”</p>\n<p>-Jim Rohn</p>\n<p>#Quotes</p>\n",
+				"content_text": "“We will all experience one pain or the other - the pain of discipline or the pain of regret - but the difference is that the pain of discipline weighs only ounces while the pain of regret weighs tons.”\n\n-Jim Rohn\n\n#Quotes\n",
+				"date_published": "2024-01-21T09:00:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/01/21/we-will-all.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/01/20/search-others-for.html",
 				
 				"content_html": "<p>“Search others for their virtue, and yourself for your vices.”</p>\n<p>-Buckminster Fuller</p>\n<p>#Quotes</p>\n",
