@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/02/10/the-first-principle.html",
+				
+				"content_html": "<p>&ldquo;The first principle is that you must not fool yourself, and you are the easiest person to fool.&rdquo;</p>\n<p>-Richard Feynman</p>\n<p>#Quotes</p>\n",
+				"content_text": "\"The first principle is that you must not fool yourself, and you are the easiest person to fool.\"\r\n\r\n-Richard Feynman\r\n\r\n#Quotes\n",
+				"date_published": "2024-02-10T10:16:20-05:00",
+				"url": "https://www.imminentmurphy.com/2024/02/10/the-first-principle.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/02/09/validating-your-hypotheses.html",
+				
+				"content_html": "<p>Validating your hypotheses as a product manager isn’t about being right - it’s about learning.</p>\n<p>It moves you out of chaotic uncertainty and into confident execution.</p>\n",
+				"content_text": "Validating your hypotheses as a product manager isn’t about being right - it’s about learning.\r\n\r\nIt moves you out of chaotic uncertainty and into confident execution.\r\n\r\n",
+				"date_published": "2024-02-09T13:33:17-05:00",
+				"url": "https://www.imminentmurphy.com/2024/02/09/validating-your-hypotheses.html",
+				"tags": ["Product Management"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/02/05/discovery-isnt-a.html",
 				
 				"content_html": "<p>Discovery isn’t a checklist; it’s a conversation.</p>\n<p>You listen actively, try to ask the best questions, and generally let curiosity be your guide.</p>\n<p>As a product manager, you relish understanding the nuances of your clients’ needs.</p>\n",
