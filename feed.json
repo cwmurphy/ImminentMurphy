@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/02/17/a-schedule-defends.html",
+				
+				"content_html": "<p>&ldquo;A schedule defends from chaos and whim.&rdquo;</p>\n<p>-Annie Dillard</p>\n<p>#Quotes</p>\n",
+				"content_text": "\"A schedule defends from chaos and whim.\" \r\n\r\n-Annie Dillard\r\n\r\n#Quotes\r\n",
+				"date_published": "2024-02-17T09:01:31-05:00",
+				"url": "https://www.imminentmurphy.com/2024/02/17/a-schedule-defends.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/02/15/whenever-you-will.html",
+				
+				"content_html": "<p>Whenever you will think other people are wrong about a given approach, check to see if you have any data available to validate your position.</p>\n<p>If not, this is an ideal time for an experiment.</p>\n",
+				"content_text": "Whenever you will think other people are wrong about a given approach, check to see if you have any data available to validate your position.\r\n\r\nIf not, this is an ideal time for an experiment.\n",
+				"date_published": "2024-02-15T07:07:34-05:00",
+				"url": "https://www.imminentmurphy.com/2024/02/15/whenever-you-will.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/02/14/a-big-part.html",
+				
+				"content_html": "<p>A big part of your job is to learn how to focus on the most important thing and ignore the noise.</p>\n",
+				"content_text": "A big part of your job is to learn how to focus on the most important thing and ignore the noise.\n",
+				"date_published": "2024-02-14T07:10:34-05:00",
+				"url": "https://www.imminentmurphy.com/2024/02/14/a-big-part.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/02/12/dont-underestimate-the.html",
+				
+				"content_html": "<p>Don’t underestimate the value of sharing how you plan to solve your customer’s problems with your fellow product managers.</p>\n<p>Divergent opinions and unexplored alternatives only serve to hone the final product.</p>\n",
+				"content_text": "Don’t underestimate the value of sharing how you plan to solve your customer’s problems with your fellow product managers.\r\n\r\nDivergent opinions and unexplored alternatives only serve to hone the final product.\n",
+				"date_published": "2024-02-12T09:54:33-05:00",
+				"url": "https://www.imminentmurphy.com/2024/02/12/dont-underestimate-the.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/02/11/every-act-of.html",
+				
+				"content_html": "<p>“Every act of creation is first of all an act of destruction.”</p>\n<p>-Pablo Picasso</p>\n<p>#Quotes</p>\n",
+				"content_text": "“Every act of creation is first of all an act of destruction.”\n\n-Pablo Picasso\n\n#Quotes\n",
+				"date_published": "2024-02-11T09:30:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/02/11/every-act-of.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/02/10/the-first-principle.html",
 				
 				"content_html": "<p>&ldquo;The first principle is that you must not fool yourself, and you are the easiest person to fool.&rdquo;</p>\n<p>-Richard Feynman</p>\n<p>#Quotes</p>\n",
