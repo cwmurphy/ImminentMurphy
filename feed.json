@@ -7,10 +7,36 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/02/24/failure-is-the.html",
+				
+				"content_html": "<p>&ldquo;Failure is the opportunity to begin again, more intelligently.&rdquo;</p>\n<p>-Henry Ford</p>\n<p>#Quotes</p>\n",
+				"content_text": "\"Failure is the opportunity to begin again, more intelligently.\" \r\n\r\n-Henry Ford\r\n\r\n#Quotes\n",
+				"date_published": "2024-02-24T09:02:22-05:00",
+				"url": "https://www.imminentmurphy.com/2024/02/24/failure-is-the.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/02/23/product-roadmaps-arent.html",
+				
+				"content_html": "<p>Product roadmaps aren’t predictions.</p>\n<p>They’re instrumentation of your thinking about the problems to be solved and the priorities at which they might be addressed, based upon estimated velocity, known dependencies, and identified risks.</p>\n<p>Use them to align on the future of your product.</p>\n",
+				"content_text": "Product roadmaps aren’t predictions. \n\nThey’re instrumentation of your thinking about the problems to be solved and the priorities at which they might be addressed, based upon estimated velocity, known dependencies, and identified risks.\n\nUse them to align on the future of your product.\n",
+				"date_published": "2024-02-23T07:41:45-05:00",
+				"url": "https://www.imminentmurphy.com/2024/02/23/product-roadmaps-arent.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/02/22/its-difficult-to.html",
+				
+				"content_html": "<p>It’s difficult to convey just how useful it is to visualize your thinking in a shared space when you&rsquo;re problem solving with other people.</p>\n<p>Grab a flipchart or open up a shared whiteboard or Google doc and start illustrating your ideas as soon as possible.</p>\n",
+				"content_text": "It’s difficult to convey just how useful it is to visualize your thinking in a shared space when you're problem solving with other people.\r\n\r\nGrab a flipchart or open up a shared whiteboard or Google doc and start illustrating your ideas as soon as possible.\n",
+				"date_published": "2024-02-22T11:04:17-05:00",
+				"url": "https://www.imminentmurphy.com/2024/02/22/its-difficult-to.html"
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/02/19/why-is-being.html",
 				
-				"content_html": "<p>Why is being a product management such a great experience?</p>\n<p>Each day is spent solving problems that really matter - whether it’s streamlining processes or enhancing user experiences or eventing new ways to accomplish goals.</p>\n<p>You’re making a meaningful difference in the lives of your clients.</p>\n",
-				"content_text": "Why is being a product management such a great experience?\r\n\r\nEach day is spent solving problems that really matter - whether it’s streamlining processes or enhancing user experiences or eventing new ways to accomplish goals.  \r\n\r\nYou’re making a meaningful difference in the lives of your clients.\n",
+				"content_html": "<p>Why is being a product manager such a great experience?</p>\n<p>Each day is spent solving problems that really matter - whether it’s streamlining processes or enhancing user experiences or eventing new ways to accomplish goals.</p>\n<p>You’re making a meaningful difference in the lives of your clients.</p>\n",
+				"content_text": "Why is being a product manager such a great experience?\n\nEach day is spent solving problems that really matter - whether it’s streamlining processes or enhancing user experiences or eventing new ways to accomplish goals.  \n\nYou’re making a meaningful difference in the lives of your clients.\n",
 				"date_published": "2024-02-19T07:09:58-05:00",
 				"url": "https://www.imminentmurphy.com/2024/02/19/why-is-being.html",
 				"tags": ["Product Management"]
