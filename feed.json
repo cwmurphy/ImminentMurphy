@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/03/01/monday-morning-actually.html",
+				
+				"content_html": "<p>Monday morning actually starts Friday afternoon.</p>\n<p>Wrap up the week’s remaining tasks and prioritize any outstanding items to ensure you start strong when your return.</p>\n<p>And! Don’t forget to take a few minutes to touch base with your team members and celebrate the little wins together.</p>\n",
+				"content_text": "Monday morning actually starts Friday afternoon.\r\n\r\nWrap up the week’s remaining tasks and prioritize any outstanding items to ensure you start strong when your return.\r\n\r\nAnd! Don’t forget to take a few minutes to touch base with your team members and celebrate the little wins together.\n",
+				"date_published": "2024-03-01T16:30:27-05:00",
+				"url": "https://www.imminentmurphy.com/2024/03/01/monday-morning-actually.html"
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/02/28/remember-your-products.html",
+				
+				"content_html": "<p>Remember: Your products and services make the world a better place - and that’s a great way to spend your focus, time, and energy.</p>\n",
+				"content_text": "Remember: Your products and services make the world a better place - and that’s a great way to spend your focus, time, and energy.\n",
+				"date_published": "2024-02-28T10:56:38-05:00",
+				"url": "https://www.imminentmurphy.com/2024/02/28/remember-your-products.html"
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/02/27/you-and-your.html",
+				
+				"content_html": "<p>You and your team can’t anticipate everything as product managers.</p>\n<p>Unexpected things will still happen.</p>\n<p>When they do, remember to move out of the chaos as quickly as possible. Reorient - and then start iterating again.</p>\n",
+				"content_text": "You and your team can’t anticipate everything as product managers. \r\n\r\nUnexpected things will still happen.\r\n\r\nWhen they do, remember to move out of the chaos as quickly as possible. Reorient - and then start iterating again.\n",
+				"date_published": "2024-02-27T07:39:29-05:00",
+				"url": "https://www.imminentmurphy.com/2024/02/27/you-and-your.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/02/26/tactfully-saying-no.html",
+				
+				"content_html": "<p>Tactfully saying “no” is one of the most difficult skills to master as a product manager.</p>\n<p>Not coincidentally, it’s also one of the most important, most valuable skills.</p>\n",
+				"content_text": "Tactfully saying “no” is one of the most difficult skills to master as a product manager. \r\n\r\nNot coincidentally, it’s also one of the most important, most valuable skills.\n",
+				"date_published": "2024-02-26T14:02:48-05:00",
+				"url": "https://www.imminentmurphy.com/2024/02/26/tactfully-saying-no.html",
+				"tags": ["Product Management"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/02/24/failure-is-the.html",
 				
 				"content_html": "<p>&ldquo;Failure is the opportunity to begin again, more intelligently.&rdquo;</p>\n<p>-Henry Ford</p>\n<p>#Quotes</p>\n",
