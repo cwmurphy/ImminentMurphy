@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/03/17/we-cant-solve.html",
+				
+				"content_html": "<p>“We can’t solve problems by using the same kind of thinking we used when we created them.“</p>\n<p>-Albert Einstein</p>\n<p>#Quotes</p>\n",
+				"content_text": "“We can’t solve problems by using the same kind of thinking we used when we created them.“\r\n\r\n-Albert Einstein\r\n\r\n#Quotes\n",
+				"date_published": "2024-03-17T08:37:28-04:00",
+				"url": "https://www.imminentmurphy.com/2024/03/17/we-cant-solve.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/03/16/ideas-are-a.html",
+				
+				"content_html": "<p>&ldquo;Ideas are a dime a dozen. It&rsquo;s execution that counts.&rdquo;\n-Frank Herbert</p>\n<p>#Quotes</p>\n",
+				"content_text": "\"Ideas are a dime a dozen. It's execution that counts.\"\r\n-Frank Herbert\r\n\r\n#Quotes\r\n",
+				"date_published": "2024-03-16T08:34:20-04:00",
+				"url": "https://www.imminentmurphy.com/2024/03/16/ideas-are-a.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/03/14/hoarding-knowledge-might.html",
+				
+				"content_html": "<p>Hoarding knowledge might be the supreme anti-pattern.</p>\n",
+				"content_text": "Hoarding knowledge might be the supreme anti-pattern.\n",
+				"date_published": "2024-03-14T08:52:22-04:00",
+				"url": "https://www.imminentmurphy.com/2024/03/14/hoarding-knowledge-might.html",
+				"tags": ["Product Management"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/03/13/remember-what-marcus.html",
 				
 				"content_html": "<p>Remember what Marcus Aurelius wrote:</p>\n<p>“Do not expect Plato’s ideal republic; be satisfied with even the smallest step forward, and consider this no small achievement.”</p>\n<p>Ours is not a perfect world.</p>\n<p>Small steps forward each day - eventually - produce compounded results.</p>\n",
