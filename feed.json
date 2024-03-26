@@ -7,6 +7,49 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/03/26/whenever-you-can.html",
+				
+				"content_html": "<p>Whenever you can, grab a dry erase marker and start sketching out what’s in your head.</p>\n<p>Encourage others in the conversation to embroider their own supporting or contrary ideas in different colors.</p>\n<p>Use giant arrows, capital letters, and underline ad you go.</p>\n<p>Get the thinking external.</p>\n",
+				"content_text": "Whenever you can, grab a dry erase marker and start sketching out what’s in your head.\r\n\r\nEncourage others in the conversation to embroider their own supporting or contrary ideas in different colors.\r\n\r\nUse giant arrows, capital letters, and underline ad you go.\r\n\r\nGet the thinking external.\n",
+				"date_published": "2024-03-26T07:25:45-04:00",
+				"url": "https://www.imminentmurphy.com/2024/03/26/whenever-you-can.html"
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/03/23/dont-fear-failure.html",
+				
+				"content_html": "<p>&ldquo;Don&rsquo;t fear failure. Not failure, but low aim, is the crime. In great attempts it is glorious even to fail.&rdquo;</p>\n<p>-Bruce Lee</p>\n<p>#Quotes</p>\n",
+				"content_text": "\"Don't fear failure. Not failure, but low aim, is the crime. In great attempts it is glorious even to fail.\"\r\n\r\n-Bruce Lee\r\n\r\n#Quotes\r\n",
+				"date_published": "2024-03-23T08:57:40-04:00",
+				"url": "https://www.imminentmurphy.com/2024/03/23/dont-fear-failure.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/03/22/remember-sarcasm-is.html",
+				
+				"content_html": "<p>Remember: sarcasm is a actually a form of thinly veiled aggression.</p>\n<p>And how rarely is veiled aggression constructive?</p>\n",
+				"content_text": "Remember: sarcasm is a actually a form of thinly veiled aggression.\r\n\r\nAnd how rarely is veiled aggression constructive?\n",
+				"date_published": "2024-03-22T08:26:16-04:00",
+				"url": "https://www.imminentmurphy.com/2024/03/22/remember-sarcasm-is.html"
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/03/21/like-herodotus-wrote.html",
+				
+				"content_html": "<p>Like Herodotus wrote, we never step in the same river twice.</p>\n<p>Everything is constantly changing.</p>\n<p>Your job as a product manager is to bring focus and alignment amid the chaos.</p>\n",
+				"content_text": "Like Herodotus wrote, we never step in the same river twice.\r\n\r\nEverything is constantly changing.\r\n\r\nYour job as a product manager is to bring focus and alignment amid the chaos.\n",
+				"date_published": "2024-03-21T08:19:32-04:00",
+				"url": "https://www.imminentmurphy.com/2024/03/21/like-herodotus-wrote.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/03/19/remember-to-prioritize.html",
+				
+				"content_html": "<p>Remember to prioritize interoperability over allegiance to specific tools.</p>\n<p>A tool-agnostic mindset cultivates resilience and allows your team to pivot without being tied down by specific tooling constraints.</p>\n<p>Your job is to build - not worship hammers or wrenches.</p>\n",
+				"content_text": "Remember to prioritize interoperability over allegiance to specific tools.\n\nA tool-agnostic mindset cultivates resilience and allows your team to pivot without being tied down by specific tooling constraints.\n\nYour job is to build - not worship hammers or wrenches.\n",
+				"date_published": "2024-03-19T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/03/19/remember-to-prioritize.html",
+				"tags": ["Product Management"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/03/17/we-cant-solve.html",
 				
 				"content_html": "<p>“We can’t solve problems by using the same kind of thinking we used when we created them.“</p>\n<p>-Albert Einstein</p>\n<p>#Quotes</p>\n",
