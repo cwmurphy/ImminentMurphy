@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/03/31/if-you-are.html",
+				
+				"content_html": "<p>“If you are coasting, it means you are going downhill.”</p>\n<ul>\n<li>C. P. Fulford Jr.</li>\n</ul>\n<p>#Quotes</p>\n",
+				"content_text": "“If you are coasting, it means you are going downhill.”\n\n- C. P. Fulford Jr.\n\n#Quotes\n",
+				"date_published": "2024-03-31T09:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/03/31/if-you-are.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/03/30/no-man-was.html",
+				
+				"content_html": "<p>“No man was ever wise by chance.”</p>\n<p>-Seneca</p>\n<p>#Quotes</p>\n",
+				"content_text": "“No man was ever wise by chance.”\n\n-Seneca\n\n#Quotes\n",
+				"date_published": "2024-03-30T08:55:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/03/30/no-man-was.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/03/28/your-first-idea.html",
+				
+				"content_html": "<p>Your first idea probably isn’t the best one.</p>\n<p>Dont be afraid to iterate!</p>\n",
+				"content_text": "Your first idea probably isn’t the best one.\r\n\r\nDont be afraid to iterate!\n",
+				"date_published": "2024-03-28T07:15:30-04:00",
+				"url": "https://www.imminentmurphy.com/2024/03/28/your-first-idea.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/03/27/distraction-corrodes-progress.html",
+				
+				"content_html": "<p>Distraction corrodes progress.</p>\n<p>Focus on what’s most important right now.</p>\n",
+				"content_text": "Distraction corrodes progress.\r\n\r\nFocus on what’s most important right now.\n",
+				"date_published": "2024-03-27T07:17:37-04:00",
+				"url": "https://www.imminentmurphy.com/2024/03/27/distraction-corrodes-progress.html",
+				"tags": ["Product Management"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/03/26/whenever-you-can.html",
 				
 				"content_html": "<p>Whenever you can, grab a dry erase marker and start sketching out what’s in your head.</p>\n<p>Encourage others in the conversation to embroider their own supporting or contrary ideas in different colors.</p>\n<p>Use giant arrows, capital letters, and underline ad you go.</p>\n<p>Get the thinking external.</p>\n",
