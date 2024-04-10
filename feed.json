@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/04/10/change-can-be.html",
+				
+				"content_html": "<p>Change can be uncomfortable but it’s also inevitable.</p>\n<p>As a product manager you need to embrace the uncertainty.</p>\n<p>Hypothesize. Take calculated risks. Stay nimble.</p>\n",
+				"content_text": "Change can be uncomfortable but it’s also inevitable.\r\n\r\nAs a product manager you need to embrace the uncertainty.\r\n\r\nHypothesize. Take calculated risks. Stay nimble.\n",
+				"date_published": "2024-04-10T06:44:28-04:00",
+				"url": "https://www.imminentmurphy.com/2024/04/10/change-can-be.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/04/07/if-you-are.html",
+				
+				"content_html": "<p>“If you are to have a great kingdom, rule over yourself.”</p>\n<p>-Publilius Syrus</p>\n<p>#quotes</p>\n",
+				"content_text": " “If you are to have a great kingdom, rule over yourself.”\r\n\r\n-Publilius Syrus\r\n\r\n#quotes\n",
+				"date_published": "2024-04-07T08:18:56-04:00",
+				"url": "https://www.imminentmurphy.com/2024/04/07/if-you-are.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/04/05/what-they-call.html",
 				
 				"content_html": "<p>“What they call you is one thing. What you answer to is something else.”</p>\n<p>-Lucille Clifton</p>\n<p>#Quotes</p>\n",
