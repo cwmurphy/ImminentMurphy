@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/04/17/there-is-no.html",
+				
+				"content_html": "<p>“There is no such thing as a minor lapse of integrity.”</p>\n<p>-Tom Peters</p>\n<p>#Quotes</p>\n",
+				"content_text": "“There is no such thing as a minor lapse of integrity.”\r\n\r\n-Tom Peters\r\n\r\n#Quotes\r\n",
+				"date_published": "2024-04-17T06:07:36-04:00",
+				"url": "https://www.imminentmurphy.com/2024/04/17/there-is-no.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/04/15/explore-different-angles.html",
+				
+				"content_html": "<p>Explore different angles, challenge assumptions, and surface insights from the safety of your virtual workbench.</p>\n<p>These dedicated thinking spaces are crucial for the experimentation, iteration, and clarity needed to push your product forward.</p>\n",
+				"content_text": "Explore different angles, challenge assumptions, and surface insights from the safety of your virtual workbench.\r\n\r\nThese dedicated thinking spaces are crucial for the experimentation, iteration, and clarity needed to push your product forward.\n",
+				"date_published": "2024-04-15T07:31:01-04:00",
+				"url": "https://www.imminentmurphy.com/2024/04/15/explore-different-angles.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/04/14/specialization-is-for.html",
+				"title": "Specialization is for insects",
+				"content_html": "<p>“A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects!”</p>\n<p>-Lazarus Long (Robert Heinlein)</p>\n<p>#QuotesThatExceed300characters</p>\n",
+				"content_text": "“A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects!”\r\n\r\n-Lazarus Long (Robert Heinlein)\r\n\r\n#QuotesThatExceed300characters\r\n",
+				"date_published": "2024-04-14T11:22:38-04:00",
+				"url": "https://www.imminentmurphy.com/2024/04/14/specialization-is-for.html",
+				"tags": ["Quotes","Misc"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/04/13/nobody-got-anywhere.html",
+				
+				"content_html": "<p>“Nobody got anywhere in the world by simply being content.”</p>\n<p>-Louis L&rsquo;Amour</p>\n<p>#Quotes</p>\n",
+				"content_text": "“Nobody got anywhere in the world by simply being content.”\n\n-Louis L'Amour\n\n#Quotes\n",
+				"date_published": "2024-04-13T13:08:34-04:00",
+				"url": "https://www.imminentmurphy.com/2024/04/13/nobody-got-anywhere.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/04/10/change-can-be.html",
 				
 				"content_html": "<p>Change can be uncomfortable but it’s also inevitable.</p>\n<p>As a product manager you need to embrace the uncertainty.</p>\n<p>Hypothesize. Take calculated risks. Stay nimble.</p>\n",
