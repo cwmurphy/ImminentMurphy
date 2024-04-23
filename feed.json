@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/04/23/change-is-the.html",
+				
+				"content_html": "<p>Change is the necessary ingredient for all progress.</p>\n<p>I cannot stress this enough.</p>\n",
+				"content_text": "Change is the necessary ingredient for all progress.\r\n\r\nI cannot stress this enough.\n",
+				"date_published": "2024-04-23T07:12:33-04:00",
+				"url": "https://www.imminentmurphy.com/2024/04/23/change-is-the.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/04/19/storms-make-us.html",
+				
+				"content_html": "<p>“Storms make us stronger.”</p>\n<p>-Bear Grylls</p>\n<p>#Quotes</p>\n",
+				"content_text": "“Storms make us stronger.”\n\n-Bear Grylls\n\n#Quotes\n",
+				"date_published": "2024-04-19T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/04/19/storms-make-us.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/04/18/make-sure-youre.html",
+				
+				"content_html": "<p>Make sure you&rsquo;re working on the right things before you start working even harder at them.</p>\n<p>Want a big change in your results?</p>\n<p>Consider that you may need a big change in your approach first.</p>\n",
+				"content_text": "Make sure you're working on the right things before you start working even harder at them.\r\n\r\nWant a big change in your results?\r\n\r\nConsider that you may need a big change in your approach first.\r\n\r\n\r\n\r\n",
+				"date_published": "2024-04-18T07:11:24-04:00",
+				"url": "https://www.imminentmurphy.com/2024/04/18/make-sure-youre.html",
+				"tags": ["Product Management"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/04/17/there-is-no.html",
 				
 				"content_html": "<p>“There is no such thing as a minor lapse of integrity.”</p>\n<p>-Tom Peters</p>\n<p>#Quotes</p>\n",
