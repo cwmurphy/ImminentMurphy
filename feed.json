@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/04/27/i-have-yet.html",
+				
+				"content_html": "<p>“I have yet to see any problem, however complicated, which, when you looked at it in the right way, did not become still more complicated.”</p>\n<p>-Poul Anderson</p>\n<p>#Quotes</p>\n",
+				"content_text": "“I have yet to see any problem, however complicated, which, when you looked at it in the right way, did not become still more complicated.”\r\n\r\n-Poul Anderson\r\n\r\n#Quotes\r\n",
+				"date_published": "2024-04-27T13:36:36-04:00",
+				"url": "https://www.imminentmurphy.com/2024/04/27/i-have-yet.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/04/23/change-is-the.html",
 				
 				"content_html": "<p>Change is the necessary ingredient for all progress.</p>\n<p>I cannot stress this enough.</p>\n",
