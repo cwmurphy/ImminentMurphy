@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/02/children-learn-to.html",
+				
+				"content_html": "<p>Children learn to walk by falling over and over again.</p>\n<p>Experiments fail more often than not.</p>\n<p>This is how we expand the scope of our understanding and knowledge.</p>\n<p>Remind yourself to be bold.</p>\n",
+				"content_text": "Children learn to walk by falling over and over again.\r\n\r\nExperiments fail more often than not.\r\n\r\nThis is how we expand the scope of our understanding and knowledge.\r\n\r\nRemind yourself to be bold.\n",
+				"date_published": "2024-05-02T06:53:24-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/02/children-learn-to.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/01/human-beings-who.html",
+				
+				"content_html": "<p>“Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.&quot;</p>\n<p>-Douglas Adams</p>\n<p>#Quotes</p>\n",
+				"content_text": "“Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.\"\r\n\r\n-Douglas Adams\r\n\r\n#Quotes\r\n",
+				"date_published": "2024-05-01T07:18:51-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/01/human-beings-who.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/04/27/i-have-yet.html",
 				
 				"content_html": "<p>“I have yet to see any problem, however complicated, which, when you looked at it in the right way, did not become still more complicated.”</p>\n<p>-Poul Anderson</p>\n<p>#Quotes</p>\n",
