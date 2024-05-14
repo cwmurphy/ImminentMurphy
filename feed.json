@@ -7,6 +7,49 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/14/concisely-sharing-what.html",
+				
+				"content_html": "<p>Concisely sharing what you know about a given topic, including the relevant context, and why it’s valuable information is an exceptionally important skill.</p>\n<p>You should constantly practice this.</p>\n",
+				"content_text": "Concisely sharing what you know about a given topic, including the relevant context, and why it’s valuable information is an exceptionally important skill.\r\n\r\nYou should constantly practice this.\n",
+				"date_published": "2024-05-14T14:21:35-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/14/concisely-sharing-what.html"
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/13/remember-what-heraclitus.html",
+				
+				"content_html": "<p>Remember what Heraclitus wrote:</p>\n<blockquote>\n<p>“No man ever steps in the same river twice, for it&rsquo;s not the same river and he&rsquo;s not the same man.”</p>\n</blockquote>\n<ol>\n<li>There are no true do-overs.</li>\n<li>The world is in constant change. And so are you.</li>\n<li>Don’t ever be afraid to try again.</li>\n</ol>\n",
+				"content_text": "Remember what Heraclitus wrote:\r\n\r\n>“No man ever steps in the same river twice, for it's not the same river and he's not the same man.”\r\n\r\n1. There are no true do-overs.\r\n2. The world is in constant change. And so are you.\r\n3. Don’t ever be afraid to try again. \r\n",
+				"date_published": "2024-05-13T07:12:25-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/13/remember-what-heraclitus.html"
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/12/motherhood-all-love.html",
+				
+				"content_html": "<p>“Motherhood: all love begins and ends there.”</p>\n<p>-Robert Browning</p>\n<p>#Quites</p>\n",
+				"content_text": "“Motherhood: all love begins and ends there.”\r\n\r\n -Robert Browning \r\n\r\n#Quites\n",
+				"date_published": "2024-05-12T06:57:03-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/12/motherhood-all-love.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/11/do-not-internalize.html",
+				
+				"content_html": "<p>“Do not internalize the industrial model. You are not one of the myriad of interchangeable pieces, but a unique human being, and if you’ve got something to say, say it, and think well of yourself while you’re learning to say it better.”</p>\n<p>-David Mamet</p>\n<p>#Quotes</p>\n",
+				"content_text": "“Do not internalize the industrial model. You are not one of the myriad of interchangeable pieces, but a unique human being, and if you’ve got something to say, say it, and think well of yourself while you’re learning to say it better.”\n\n-David Mamet\n\n#Quotes\n",
+				"date_published": "2024-05-11T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/11/do-not-internalize.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/10/there-will-be.html",
+				
+				"content_html": "<p>There will be special moments in your career as a product manager.</p>\n<p>You will meet and collaborate with remarkable people.</p>\n<p>Working together, you will somehow manage to make the world just a little bit better than the way you found it.</p>\n<p>Cherish these times.</p>\n",
+				"content_text": "There will be special moments in your career as a product manager.\n\nYou will meet and collaborate with remarkable people.\n\nWorking together, you will somehow manage to make the world just a little bit better than the way you found it.\n\nCherish these times.\n",
+				"date_published": "2024-05-10T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/10/there-will-be.html",
+				"tags": ["Quotes","Product Management"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/05/09/praise-each-other.html",
 				
 				"content_html": "<p>“Praise each other: Find something nice to say, even if it’s a stretch. The worst ideas can have silver linings if you look hard enough.”</p>\n<p>-Randy Pausch</p>\n<p>#Quotes</p>\n",
