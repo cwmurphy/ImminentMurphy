@@ -7,12 +7,49 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/19/tell-me-what.html",
+				
+				"content_html": "<p>“Tell me, what is it you plan to do with your one wild and precious life.”</p>\n<ul>\n<li>Mary Oliver</li>\n</ul>\n<p>#Quotes</p>\n",
+				"content_text": "“Tell me, what is it you plan to do with your one wild and precious life.”\n\n - Mary Oliver\n\n #Quotes\n",
+				"date_published": "2024-05-19T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/19/tell-me-what.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/18/it-is-what.html",
+				
+				"content_html": "<p>“It is what you read when you dont have to that determines what you will be when you can’t help it.”</p>\n<p>-Oscar Wilde</p>\n<p>#Quotes</p>\n",
+				"content_text": "“It is what you read when you dont have to that determines what you will be when you can’t help it.”\n\n-Oscar Wilde\n\n#Quotes\n",
+				"date_published": "2024-05-18T09:00:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/18/it-is-what.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/16/an-enviroment-that.html",
+				
+				"content_html": "<p>“An enviroment that is not safe to disagree in is not an environment focused on growth - it’s an environment focused on control.”</p>\n<p>-Wendi Jade</p>\n<p>#Quotes</p>\n",
+				"content_text": "“An enviroment that is not safe to disagree in is not an environment focused on growth - it’s an environment focused on control.”\n\n-Wendi Jade\n\n#Quotes\n",
+				"date_published": "2024-05-16T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/16/an-enviroment-that.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/15/the-first-step.html",
+				
+				"content_html": "<p>The first step with anything new is always voracious learning - which may cause some discomfort.</p>\n<p>Remember to push through this.</p>\n<p>Jot down a list of open questions. Keep it updated as you discover answers in order to document the progression of your understanding.</p>\n",
+				"content_text": "The first step with anything new is always voracious learning - which may cause some discomfort. \n\nRemember to push through this.\n\nJot down a list of open questions. Keep it updated as you discover answers in order to document the progression of your understanding.\n",
+				"date_published": "2024-05-15T06:44:21-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/15/the-first-step.html",
+				"tags": ["Consulting"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/05/14/concisely-sharing-what.html",
 				
 				"content_html": "<p>Concisely sharing what you know about a given topic, including the relevant context, and why it’s valuable information is an exceptionally important skill.</p>\n<p>You should constantly practice this.</p>\n",
-				"content_text": "Concisely sharing what you know about a given topic, including the relevant context, and why it’s valuable information is an exceptionally important skill.\r\n\r\nYou should constantly practice this.\n",
+				"content_text": "Concisely sharing what you know about a given topic, including the relevant context, and why it’s valuable information is an exceptionally important skill.\n\nYou should constantly practice this.\n",
 				"date_published": "2024-05-14T14:21:35-04:00",
-				"url": "https://www.imminentmurphy.com/2024/05/14/concisely-sharing-what.html"
+				"url": "https://www.imminentmurphy.com/2024/05/14/concisely-sharing-what.html",
+				"tags": ["Consulting"]
 			},
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/05/13/remember-what-heraclitus.html",
@@ -25,8 +62,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/05/12/motherhood-all-love.html",
 				
-				"content_html": "<p>“Motherhood: all love begins and ends there.”</p>\n<p>-Robert Browning</p>\n<p>#Quites</p>\n",
-				"content_text": "“Motherhood: all love begins and ends there.”\r\n\r\n -Robert Browning \r\n\r\n#Quites\n",
+				"content_html": "<p>“Motherhood: all love begins and ends there.”</p>\n<p>-Robert Browning</p>\n<p>#Quotes</p>\n",
+				"content_text": "“Motherhood: all love begins and ends there.”\n\n -Robert Browning \n\n#Quotes\n",
 				"date_published": "2024-05-12T06:57:03-04:00",
 				"url": "https://www.imminentmurphy.com/2024/05/12/motherhood-all-love.html",
 				"tags": ["Quotes"]
