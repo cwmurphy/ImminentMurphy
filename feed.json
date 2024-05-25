@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/25/i-am-a.html",
+				
+				"content_html": "<p>“I am a great believer in luck. The harder I work, the more of it I seem to have.”</p>\n<p>-Coleman Cox</p>\n<p>#Quotes</p>\n",
+				"content_text": "“I am a great believer in luck. The harder I work, the more of it I seem to have.”\n\n-Coleman Cox\n\n#Quotes\n",
+				"date_published": "2024-05-25T08:00:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/25/i-am-a.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/24/in-what-sort.html",
+				
+				"content_html": "<p>In what sort of future do you want to live?</p>\n<p>Having that small sweet with your morning coffee makes it marginally less likely you’ll eat the healthy bowl of oatmeal later.</p>\n<p>Think about how small decisions make actions easier or harder for your future self.</p>\n",
+				"content_text": "In what sort of future do you want to live?\r\n\r\nHaving that small sweet with your morning coffee makes it marginally less likely you’ll eat the healthy bowl of oatmeal later.\r\n\r\nThink about how small decisions make actions easier or harder for your future self.\n",
+				"date_published": "2024-05-24T07:59:22-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/24/in-what-sort.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/23/remember-empathize-with.html",
+				
+				"content_html": "<p>Remember:</p>\n<p>Empathize with your clients.</p>\n<p>Understand their needs as thoroughly as possible before proposing any solutions.</p>\n<p>Always back your recommendations with evidence.</p>\n",
+				"content_text": "Remember:\r\n\r\nEmpathize with your clients.\r\n\r\nUnderstand their needs as thoroughly as possible before proposing any solutions.\r\n\r\nAlways back your recommendations with evidence.\n",
+				"date_published": "2024-05-23T07:57:17-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/23/remember-empathize-with.html",
+				"tags": ["Product Management","Consulting"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/22/computers-fail-checklists.html",
+				
+				"content_html": "<p>“Computers fail, checklists fail, everything can fail. But people can’t. We have to make decisions, and that includes deciding what deserves our attention. The key is forcing yourself to think. As long as you’re thinking, you’re halfway home.”</p>\n<p>-Richard Champion de Crespigny</p>\n<p>#Quotes</p>\n",
+				"content_text": "“Computers fail, checklists fail, everything can fail. But people can’t. We have to make decisions, and that includes deciding what deserves our attention. The key is forcing yourself to think. As long as you’re thinking, you’re halfway home.”\n\n-Richard Champion de Crespigny\n\n#Quotes\n",
+				"date_published": "2024-05-22T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/22/computers-fail-checklists.html",
+				"tags": ["Quotes","Consulting"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/21/by-far-the.html",
+				
+				"content_html": "<p>&ldquo;By far the dominant reason for not releasing sooner was a reluctance to trade the dream of success for the reality of feedback.&rdquo;</p>\n<p>-Kent Beck</p>\n<p>#Quotes</p>\n",
+				"content_text": "\"By far the dominant reason for not releasing sooner was a reluctance to trade the dream of success for the reality of feedback.\" \n\n-Kent Beck\n\n#Quotes\n",
+				"date_published": "2024-05-21T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/21/by-far-the.html",
+				"tags": ["Quotes","Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/20/there-are-no.html",
+				"title": "There are no silver bullets",
+				"content_html": "<blockquote>\n<p>“Every tool you use impacts your abilities while using that tool.  It increases some capabilities while decreasing others.</p>\n<p>For example, a chimp fishing for ants with a stick can’t use her hand for another purpose while holding that stick.”</p>\n<p>-David Kadavy</p>\n</blockquote>\n<p>Tools perform specific functions, ideally useful ones.</p>\n<p>Good tools perform their functions efficiently and are often cheaper, faster, easier, and/or better than alternatives.</p>\n<p>Great tools are transformational. Notable examples here include sharpened stones, metal lathes, maps, and alphabets.</p>\n<p>The proverbial hammer is perfect for driving steel nails into wood. Even the very best hammer can&rsquo;t help if the blueprints are incorrect, however.</p>\n<p>You say you want your Product Managers to write better user stories? Switching their text editors won’t help terribly much.</p>\n<p>Tools don’t magically fix broken processes, dysfunctional leadership, misaligned incentives, or training gaps.</p>\n<p>See also:</p>\n<p><a href=\"https://www.imminentmurphy.com/2024/03/19/remember-to-prioritize.html\">Prioritize interoperability over allegiance to specific tools</a></p>\n",
+				"content_text": ">“Every tool you use impacts your abilities while using that tool.  It increases some capabilities while decreasing others.\n>\n>For example, a chimp fishing for ants with a stick can’t use her hand for another purpose while holding that stick.” \n>\n> -David Kadavy\n\nTools perform specific functions, ideally useful ones.\n\nGood tools perform their functions efficiently and are often cheaper, faster, easier, and/or better than alternatives.\n\nGreat tools are transformational. Notable examples here include sharpened stones, metal lathes, maps, and alphabets.\n\nThe proverbial hammer is perfect for driving steel nails into wood. Even the very best hammer can't help if the blueprints are incorrect, however.\n\nYou say you want your Product Managers to write better user stories? Switching their text editors won’t help terribly much.\n\nTools don’t magically fix broken processes, dysfunctional leadership, misaligned incentives, or training gaps.\n\nSee also:\n\n[Prioritize interoperability over allegiance to specific tools](https://www.imminentmurphy.com/2024/03/19/remember-to-prioritize.html)\n",
+				"date_published": "2024-05-20T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/20/there-are-no.html",
+				"tags": ["Quotes","Product Management","Writing","Consulting"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/05/19/tell-me-what.html",
 				
 				"content_html": "<p>“Tell me, what is it you plan to do with your one wild and precious life.”</p>\n<ul>\n<li>Mary Oliver</li>\n</ul>\n<p>#Quotes</p>\n",
