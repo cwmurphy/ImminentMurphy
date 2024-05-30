@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/29/according-to-rumelt.html",
+				
+				"content_html": "<p>A good strategy (according to Rumelt) has 3 parts:</p>\n<ol>\n<li>\n<p>The diagnosis - framing the challenge</p>\n</li>\n<li>\n<p>The guiding policy - the approach to dealing with the issues in the diagnosis</p>\n</li>\n<li>\n<p>Coherent Actions - the actions, resource commitments, and policies needed to carry out the guiding policy</p>\n</li>\n</ol>\n",
+				"content_text": "A good strategy (according to Rumelt) has 3 parts:\n\n1. The diagnosis - framing the challenge\n\n2. The guiding policy - the approach to dealing with the issues in the diagnosis\n\n3. Coherent Actions - the actions, resource commitments, and policies needed to carry out the guiding policy\n",
+				"date_published": "2024-05-30T19:52:50-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/29/according-to-rumelt.html",
+				"tags": ["Product Management","Consulting","Strategy"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/29/strategy-is-a.html",
+				
+				"content_html": "<p>Strategy is a cohesive response to an important challenge (Richard Rumelt).</p>\n<p>This is a phenomenal distillation of the concept.</p>\n",
+				"content_text": "Strategy is a cohesive response to an important challenge (Richard Rumelt).\n\nThis is a phenomenal distillation of the concept.\n",
+				"date_published": "2024-05-29T07:18:53-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/29/strategy-is-a.html",
+				"tags": ["Product Management","Consulting","Strategy"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/28/creativity-is-just.html",
+				"title": "“Creativity is just problem solving”",
+				"content_html": "<p>“Creativity is just problem solving. Once people see it as problem solving, it stops seeming like magic, because it’s not. Brokers are just people who pay more attention to what problems look like and how they’ve been solved before. People who are most creative are the ones who have learned that feeling scared is a good sign. We just have to learn how to trust ourselves enough to let the creativity out.”</p>\n<p>-Ed Catmull</p>\n<p>#Quotes</p>\n",
+				"content_text": "“Creativity is just problem solving. Once people see it as problem solving, it stops seeming like magic, because it’s not. Brokers are just people who pay more attention to what problems look like and how they’ve been solved before. People who are most creative are the ones who have learned that feeling scared is a good sign. We just have to learn how to trust ourselves enough to let the creativity out.”\n\n-Ed Catmull\n\n#Quotes\n",
+				"date_published": "2024-05-28T08:00:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/28/creativity-is-just.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/27/absolutely-no-one.html",
+				
+				"content_html": "<p>Remember: If you compliment someone else’s dog, it really is ok if they’re not gracious about it.</p>\n<p>It shouldn’t change a thing for you - or the dog.</p>\n",
+				"content_text": "Remember: If you compliment someone else’s dog, it really is ok if they’re not gracious about it. \n\nIt shouldn’t change a thing for you - or the dog.\n",
+				"date_published": "2024-05-27T10:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/27/absolutely-no-one.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/26/be-careful-not.html",
+				
+				"content_html": "<p>“Be careful not to overcomplicate your systems to the point where you can only maintain them when you are at your peak of mental clarity.”</p>\n<p>-the David Allen Company</p>\n<p>#Quotes</p>\n",
+				"content_text": "“Be careful not to overcomplicate your systems to the point where you can only maintain them when you are at your peak of mental clarity.”\n\n-the David Allen Company\n\n#Quotes\n",
+				"date_published": "2024-05-26T09:00:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/26/be-careful-not.html",
+				"tags": ["Quotes","Product Management","Consulting"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/05/25/i-am-a.html",
 				
 				"content_html": "<p>“I am a great believer in luck. The harder I work, the more of it I seem to have.”</p>\n<p>-Coleman Cox</p>\n<p>#Quotes</p>\n",
@@ -54,8 +99,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/05/20/there-are-no.html",
 				"title": "There are no silver bullets",
-				"content_html": "<blockquote>\n<p>“Every tool you use impacts your abilities while using that tool.  It increases some capabilities while decreasing others.</p>\n<p>For example, a chimp fishing for ants with a stick can’t use her hand for another purpose while holding that stick.”</p>\n<p>-David Kadavy</p>\n</blockquote>\n<p>Tools perform specific functions, ideally useful ones.</p>\n<p>Good tools perform their functions efficiently and are often cheaper, faster, easier, and/or better than alternatives.</p>\n<p>Great tools are transformational. Notable examples here include sharpened stones, metal lathes, maps, and alphabets.</p>\n<p>The proverbial hammer is perfect for driving steel nails into wood. Even the very best hammer can&rsquo;t help if the blueprints are incorrect, however.</p>\n<p>You say you want your Product Managers to write better user stories? Switching their text editors won’t help terribly much.</p>\n<p>Tools don’t magically fix broken processes, dysfunctional leadership, misaligned incentives, or training gaps.</p>\n<p>See also:</p>\n<p><a href=\"https://www.imminentmurphy.com/2024/03/19/remember-to-prioritize.html\">Prioritize interoperability over allegiance to specific tools</a></p>\n",
-				"content_text": ">“Every tool you use impacts your abilities while using that tool.  It increases some capabilities while decreasing others.\n>\n>For example, a chimp fishing for ants with a stick can’t use her hand for another purpose while holding that stick.” \n>\n> -David Kadavy\n\nTools perform specific functions, ideally useful ones.\n\nGood tools perform their functions efficiently and are often cheaper, faster, easier, and/or better than alternatives.\n\nGreat tools are transformational. Notable examples here include sharpened stones, metal lathes, maps, and alphabets.\n\nThe proverbial hammer is perfect for driving steel nails into wood. Even the very best hammer can't help if the blueprints are incorrect, however.\n\nYou say you want your Product Managers to write better user stories? Switching their text editors won’t help terribly much.\n\nTools don’t magically fix broken processes, dysfunctional leadership, misaligned incentives, or training gaps.\n\nSee also:\n\n[Prioritize interoperability over allegiance to specific tools](https://www.imminentmurphy.com/2024/03/19/remember-to-prioritize.html)\n",
+				"content_html": "<blockquote>\n<p>“Every tool you use impacts your abilities while using that tool.  It increases some capabilities while decreasing others.</p>\n<p>For example, a chimp fishing for ants with a stick can’t use her hand for another purpose while holding that stick.”</p>\n<p>-David Kadavy</p>\n</blockquote>\n<p>Tools perform specific functions, ideally useful ones.</p>\n<p>Good tools perform their functions efficiently and are often cheaper, faster, simpler, and/or better than alternatives.</p>\n<p>Great tools are transformative. Notable examples include sharpened stones, metal lathes, maps, and alphabets.</p>\n<p>The proverbial hammer is great for driving steel nails into wood. But even the best hammer can&rsquo;t help if the blueprints are wrong.</p>\n<p>You say you want your product managers to write better user stories? Changing your word processor won&rsquo;t help much.</p>\n<p>Tools don&rsquo;t magically fix broken processes, dysfunctional leadership, misaligned incentives, or training gaps.</p>\n<p>See also:</p>\n<ul>\n<li><a href=\"https://www.imminentmurphy.com/2024/03/19/remember-to-prioritize.html\">Prioritize interoperability over allegiance to specific tools</a></li>\n</ul>\n",
+				"content_text": ">“Every tool you use impacts your abilities while using that tool.  It increases some capabilities while decreasing others.\n>\n>For example, a chimp fishing for ants with a stick can’t use her hand for another purpose while holding that stick.” \n>\n> -David Kadavy\n\nTools perform specific functions, ideally useful ones.\n\nGood tools perform their functions efficiently and are often cheaper, faster, simpler, and/or better than alternatives.\n\nGreat tools are transformative. Notable examples include sharpened stones, metal lathes, maps, and alphabets.\n\nThe proverbial hammer is great for driving steel nails into wood. But even the best hammer can't help if the blueprints are wrong.\n\nYou say you want your product managers to write better user stories? Changing your word processor won't help much.\n\nTools don't magically fix broken processes, dysfunctional leadership, misaligned incentives, or training gaps.\n\nSee also:\n- [Prioritize interoperability over allegiance to specific tools](https://www.imminentmurphy.com/2024/03/19/remember-to-prioritize.html)\n",
 				"date_published": "2024-05-20T08:30:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/05/20/there-are-no.html",
 				"tags": ["Quotes","Product Management","Writing","Consulting"]
