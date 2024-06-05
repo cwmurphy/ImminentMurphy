@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/04/remember-to-always.html",
+				
+				"content_html": "<p>Remember to always ask “how will this simplify things?”</p>\n<p>For example: before you buy that retro mechanical keyboard that looks exactly like your childhood Commodore 64.</p>\n",
+				"content_text": "Remember to always ask “how will this simplify things?”\n\nFor example: before you buy that retro mechanical keyboard that looks exactly like your childhood Commodore 64.\n",
+				"date_published": "2024-06-04T09:00:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/04/remember-to-always.html",
+				"tags": ["Misc","Strategy"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/04/listening-is-the.html",
+				
+				"content_html": "<p>&ldquo;Listening is the engine of ingenuity. It&rsquo;s difficult to understand desires and detect problems, much less develop elegant solutions, without listening.&rdquo;</p>\n<p>-Kate Murphy (no relation 😁)</p>\n<p>#Quotes</p>\n",
+				"content_text": "\"Listening is the engine of ingenuity. It's difficult to understand desires and detect problems, much less develop elegant solutions, without listening.\"\n\n-Kate Murphy (no relation 😁)\n\n#Quotes\n",
+				"date_published": "2024-06-04T07:00:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/04/listening-is-the.html",
+				"tags": ["Quotes","Product Management","Consulting"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/01/its-hard-to.html",
+				
+				"content_html": "<p>&ldquo;It&rsquo;s hard to do a really good job on anything you don&rsquo;t think about in the shower.&rdquo;</p>\n<p>-Paul Graham</p>\n<p>#Quotes</p>\n",
+				"content_text": "\"It's hard to do a really good job on anything you don't think about in the shower.\"\n\n-Paul Graham\n\n#Quotes\n",
+				"date_published": "2024-06-01T09:00:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/01/its-hard-to.html",
+				"tags": ["Quotes","Product Management","Consulting"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/01/the-most-effective.html",
+				
+				"content_html": "<p>“The most effective communicators pause before they speak and ask themselves: Why am I opening my mouth?”</p>\n<p>-Charles Duhigg</p>\n<p>#Quotes</p>\n",
+				"content_text": "“The most effective communicators pause before they speak and ask themselves: Why am I opening my mouth?”\n\n-Charles Duhigg\n\n#Quotes\n",
+				"date_published": "2024-06-01T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/01/the-most-effective.html",
+				"tags": ["Quotes","Product Management","Consulting"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/05/31/users-dont-evangelize.html",
+				
+				"content_html": "<p>“Users don’t evangelize to their friends because they like the product, they evangelized their friends because they like their friends.”</p>\n<p>-Kathy Sierra</p>\n<p>#Quotes</p>\n",
+				"content_text": "“Users don’t evangelize to their friends because they like the product, they evangelized their friends because they like their friends.”\n\n-Kathy Sierra\n\n#Quotes\n",
+				"date_published": "2024-05-31T09:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/05/31/users-dont-evangelize.html",
+				"tags": ["Quotes","Product Management"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/05/29/according-to-rumelt.html",
 				
 				"content_html": "<p>A good strategy (according to Rumelt) has 3 parts:</p>\n<ol>\n<li>\n<p>The diagnosis - framing the challenge</p>\n</li>\n<li>\n<p>The guiding policy - the approach to dealing with the issues in the diagnosis</p>\n</li>\n<li>\n<p>Coherent Actions - the actions, resource commitments, and policies needed to carry out the guiding policy</p>\n</li>\n</ol>\n",
