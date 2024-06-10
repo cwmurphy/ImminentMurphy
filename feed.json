@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/10/its-about-being.html",
+				
+				"content_html": "<p>It&rsquo;s about being prepared and staying agile in a fluid environment. Think about the future. Anticipate challenges. Identify potential risks before they become problems.</p>\n",
+				"content_text": "It's about being prepared and staying agile in a fluid environment. Think about the future. Anticipate challenges. Identify potential risks before they become problems. \n",
+				"date_published": "2024-06-10T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/10/its-about-being.html",
+				"tags": ["Product Management","Strategy"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/09/point-of-view.html",
+				
+				"content_html": "<p>“Point of view is wortjy 80 IQ points.”</p>\n<p>-Alan Kay</p>\n<p>#Quotes</p>\n",
+				"content_text": "“Point of view is wortjy 80 IQ points.”\n\n-Alan Kay\n\n#Quotes\n",
+				"date_published": "2024-06-09T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/09/point-of-view.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/08/indeed-no-one.html",
+				
+				"content_html": "<p>“Indeed, no one can thwart the purposes of your mind - for they can’t be touched by fire, steel, tyranny, slander, or anything.”</p>\n<p>-Marcus Aurelius</p>\n<p>#Quotes</p>\n",
+				"content_text": "“Indeed, no one can thwart the purposes of your mind - for they can’t be touched by fire, steel, tyranny, slander, or anything.”\n\n-Marcus Aurelius\n\n#Quotes\n",
+				"date_published": "2024-06-08T09:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/08/indeed-no-one.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/07/fairy-tales-do.html",
+				
+				"content_html": "<p>“Fairy tales do not tell children the dragons exist. Children already know that dragons exist. Fairy tales tell children the dragons can be killed.”</p>\n<p>-G.K. Chesterton</p>\n<p>#Quotes</p>\n",
+				"content_text": "“Fairy tales do not tell children the dragons exist. Children already know that dragons exist. Fairy tales tell children the dragons can be killed.”\n\n-G.K. Chesterton\n\n#Quotes\n",
+				"date_published": "2024-06-07T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/07/fairy-tales-do.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/06/sometimes-simply-writing.html",
+				
+				"content_html": "<p>Sometimes simply writing things down and then methodically reviewing your lists can be a superpower.</p>\n",
+				"content_text": "Sometimes simply writing things down and then methodically reviewing your lists can be a superpower.\n",
+				"date_published": "2024-06-06T07:07:56-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/06/sometimes-simply-writing.html",
+				"tags": ["Strategy"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/05/it-is-easier.html",
+				
+				"content_html": "<p>“It is easier to judge a man by his questions rather than by his answers.”</p>\n<p>-Pierre-Marc-Gaston de Lévis</p>\n<p>#Quotes ,</p>\n",
+				"content_text": "“It is easier to judge a man by his questions rather than by his answers.”\n\n-Pierre-Marc-Gaston de Lévis\n\n#Quotes ,\n",
+				"date_published": "2024-06-05T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/05/it-is-easier.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/04/remember-to-always.html",
 				
 				"content_html": "<p>Remember to always ask “how will this simplify things?”</p>\n<p>For example: before you buy that retro mechanical keyboard that looks exactly like your childhood Commodore 64.</p>\n",
