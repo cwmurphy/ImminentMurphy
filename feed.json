@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/16/you-get-an.html",
+				
+				"content_html": "<p>“You get an astronaut’s life whether you want it or not. Leave it all behind for a world you know nothing about. That’s just the deal.&quot;</p>\n<p>-Joe Hill</p>\n<p>#Quotes</p>\n",
+				"content_text": "“You get an astronaut’s life whether you want it or not. Leave it all behind for a world you know nothing about. That’s just the deal.\"  \r\n\r\n-Joe Hill\r\n\r\n#Quotes\n",
+				"date_published": "2024-06-16T06:48:14-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/16/you-get-an.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/13/as-a-product.html",
+				
+				"content_html": "<p>As a product manager some of the most important time you spend is talking to users or poring over feedback to uncover their most pressing challenges. Then you prioritize solutions to address those issues.</p>\n<p>That’s how you make sure you&rsquo;re delivering real value.</p>\n",
+				"content_text": "As a product manager some of the most important time you spend is talking to users or poring over feedback to uncover their most pressing challenges. Then you prioritize solutions to address those issues.\n\nThat’s how you make sure you're delivering real value.\n",
+				"date_published": "2024-06-13T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/13/as-a-product.html",
+				"tags": ["Product Management"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/10/its-about-being.html",
 				
 				"content_html": "<p>It&rsquo;s about being prepared and staying agile in a fluid environment. Think about the future. Anticipate challenges. Identify potential risks before they become problems.</p>\n",
@@ -18,8 +36,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/09/point-of-view.html",
 				
-				"content_html": "<p>“Point of view is wortjy 80 IQ points.”</p>\n<p>-Alan Kay</p>\n<p>#Quotes</p>\n",
-				"content_text": "“Point of view is wortjy 80 IQ points.”\n\n-Alan Kay\n\n#Quotes\n",
+				"content_html": "<p>“Point of view is worth 80 IQ points.”</p>\n<p>-Alan Kay</p>\n<p>#Quotes</p>\n",
+				"content_text": "“Point of view is worth 80 IQ points.”\n\n-Alan Kay\n\n#Quotes\n",
 				"date_published": "2024-06-09T08:30:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/06/09/point-of-view.html",
 				"tags": ["Quotes"]
@@ -54,8 +72,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/05/it-is-easier.html",
 				
-				"content_html": "<p>“It is easier to judge a man by his questions rather than by his answers.”</p>\n<p>-Pierre-Marc-Gaston de Lévis</p>\n<p>#Quotes ,</p>\n",
-				"content_text": "“It is easier to judge a man by his questions rather than by his answers.”\n\n-Pierre-Marc-Gaston de Lévis\n\n#Quotes ,\n",
+				"content_html": "<p>“It is easier to judge a man by his questions rather than by his answers.”</p>\n<p>-Pierre-Marc-Gaston de Lévis</p>\n<p>#Quotes</p>\n",
+				"content_text": "“It is easier to judge a man by his questions rather than by his answers.”\n\n-Pierre-Marc-Gaston de Lévis\n\n#Quotes\n",
 				"date_published": "2024-06-05T08:30:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/06/05/it-is-easier.html",
 				"tags": ["Quotes"]
