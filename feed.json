@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/22/our-world-is.html",
+				
+				"content_html": "<p>&ldquo;Our world is random and messy. Collecting data does not make it more perfect or more controllable.&rdquo;</p>\n<p>-Giorgia Lupi</p>\n<p>#Quotes</p>\n",
+				"content_text": "\"Our world is random and messy. Collecting data does not make it more perfect or more controllable.\"\n\n-Giorgia Lupi\n\n#Quotes\n",
+				"date_published": "2024-06-22T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/22/our-world-is.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/20/remember-nostalgia-is.html",
+				
+				"content_html": "<p>Remember: nostalgia is an expensive commodity.</p>\n",
+				"content_text": "Remember: nostalgia is an expensive commodity.\n",
+				"date_published": "2024-06-20T11:47:33-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/20/remember-nostalgia-is.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/19/perhaps-contrary-to.html",
+				
+				"content_html": "<p>Perhaps contrary to popular belief, you don&rsquo;t just write product specs and plot roadmaps as a product manager.</p>\n<p>You’re also a storyteller. You create narratives that inspire your team and excite your clients about the future you’re collectvely building.</p>\n",
+				"content_text": "Perhaps contrary to popular belief, you don't just write product specs and plot roadmaps as a product manager.\n\nYou’re also a storyteller. You create narratives that inspire your team and excite your clients about the future you’re collectvely building.\n",
+				"date_published": "2024-06-19T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/19/perhaps-contrary-to.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/17/the-opposite-of.html",
+				
+				"content_html": "<p>“The opposite of courage is conforming.”</p>\n<p>-Brian Collins</p>\n<p>#Quotes</p>\n",
+				"content_text": "“The opposite of courage is conforming.”\n\n-Brian Collins\n\n#Quotes\n",
+				"date_published": "2024-06-17T08:03:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/17/the-opposite-of.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/16/you-get-an.html",
 				
 				"content_html": "<p>“You get an astronaut’s life whether you want it or not. Leave it all behind for a world you know nothing about. That’s just the deal.&quot;</p>\n<p>-Joe Hill</p>\n<p>#Quotes</p>\n",
