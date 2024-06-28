@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/27/talking-about-the.html",
+				
+				"content_html": "<p>Talking about the times you failed as a product manager and what you learned from them is always more interesting than talking about your successes.</p>\n<p>Forget the highlight reel. Share your bruises\nand cuts.</p>\n",
+				"content_text": "Talking about the times you failed as a product manager and what you learned from them is always more interesting than talking about your successes.\r\n\r\nForget the highlight reel. Share your bruises\r\nand cuts.\n",
+				"date_published": "2024-06-27T07:12:52-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/27/talking-about-the.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/26/the-man-who.html",
+				
+				"content_html": "<p>“The man who does not read good books has no advantage over the man who cannot read them.&quot;</p>\n<p>-Mark Twain</p>\n<p>#Quotes</p>\n",
+				"content_text": "“The man who does not read good books has no advantage over the man who cannot read them.\"\n\n-Mark Twain\n\n#Quotes\n",
+				"date_published": "2024-06-26T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/26/the-man-who.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/25/if-we-really.html",
+				
+				"content_html": "<p>“If we really care about our users, we’ll help them do what they want, not what we want.”</p>\n<p>-Kathy Sierra</p>\n<p>#Quotes #ProductManagement</p>\n",
+				"content_text": "“If we really care about our users, we’ll help them do what they want, not what we want.”\n\n-Kathy Sierra\n\n#Quotes #ProductManagement\n",
+				"date_published": "2024-06-25T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/25/if-we-really.html",
+				"tags": ["Quotes","Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/24/great-products-solve.html",
+				
+				"content_html": "<p>Great products solve problems.</p>\n<p>Exceptional products anticipate them.</p>\n<p>Think about what happens to your customers when they no longer have to worry about these problems. How do they change?</p>\n",
+				"content_text": "Great products solve problems. \n\nExceptional products anticipate them. \n\nThink about what happens to your customers when they no longer have to worry about these problems. How do they change?\n",
+				"date_published": "2024-06-24T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/24/great-products-solve.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/23/some-of-the.html",
+				
+				"content_html": "<p>Some of the best advice I ever received from a manager:</p>\n<p>“Hope? <em>I</em> get to ‘hope’. <em>You</em> need a plan.”</p>\n<p>Make sure you always have a plan.</p>\n",
+				"content_text": "Some of the best advice I ever received from a manager: \n\n“Hope? _I_ get to ‘hope’. _You_ need a plan.”\n\nMake sure you always have a plan.\n",
+				"date_published": "2024-06-23T10:34:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/23/some-of-the.html",
+				"tags": ["Quotes","Product Management","Consulting","Strategy"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/22/our-world-is.html",
 				
 				"content_html": "<p>&ldquo;Our world is random and messy. Collecting data does not make it more perfect or more controllable.&rdquo;</p>\n<p>-Giorgia Lupi</p>\n<p>#Quotes</p>\n",
