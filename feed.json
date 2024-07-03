@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/07/03/no-sensible-decision.html",
+				
+				"content_html": "<p>“No sensible decision can be made any longer without taking into account not only the world as it is, but the world as it will be.”</p>\n<p>-Isaac Asimov</p>\n<p>#Quotes</p>\n",
+				"content_text": "“No sensible decision can be made any longer without taking into account not only the world as it is, but the world as it will be.”\r\n\r\n -Isaac Asimov\r\n\r\n#Quotes\n",
+				"date_published": "2024-07-03T09:29:36-04:00",
+				"url": "https://www.imminentmurphy.com/2024/07/03/no-sensible-decision.html",
+				"tags": ["Quotes","Strategy"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/07/02/remember-mistakes-are.html",
+				
+				"content_html": "<p>Remember: &ldquo;Mistakes&rdquo; are inevitable. They&rsquo;re how we discover what does or doesn&rsquo;t work (albeit sometimes quite viscerally).</p>\n<p>It&rsquo;s how we respond to mistakes that defines our success.</p>\n",
+				"content_text": "Remember: \"Mistakes\" are inevitable. They're how we discover what does or doesn't work (albeit sometimes quite viscerally).\r\n\r\nIt's how we respond to mistakes that defines our success.\n",
+				"date_published": "2024-07-02T09:28:34-04:00",
+				"url": "https://www.imminentmurphy.com/2024/07/02/remember-mistakes-are.html",
+				"tags": ["Product Management","Consulting","Strategy"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/30/we-should-be.html",
+				
+				"content_html": "<p>“We should be taught not to wait for inspiration to start a thing. Action always generates inspiration. Inspiration seldom generates action.”</p>\n<p>-Frank Tibolt</p>\n<p>#Quotes</p>\n",
+				"content_text": "“We should be taught not to wait for inspiration to start a thing. Action always generates inspiration. Inspiration seldom generates action.” \n\n-Frank Tibolt\n\n#Quotes\n",
+				"date_published": "2024-06-30T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/30/we-should-be.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/29/rules-are-made.html",
+				
+				"content_html": "<p>“Rules are made for the convenience of those who are playing. What is fair at one time or in one game may be inhibiting later on. It’s not the game that’s sacred, it’s the people who are playing.”</p>\n<p>-Bernard De Koven, writing about playing games but easily applied to agile software development</p>\n<p>#Quotes</p>\n",
+				"content_text": "“Rules are made for the convenience of those who are playing. What is fair at one time or in one game may be inhibiting later on. It’s not the game that’s sacred, it’s the people who are playing.”\n\n-Bernard De Koven, writing about playing games but easily applied to agile software development\n \n#Quotes\n",
+				"date_published": "2024-06-29T09:00:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/29/rules-are-made.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/06/28/make-a-mistake.html",
+				
+				"content_html": "<p>&ldquo;Make a mistake? Release the guilt, remember the lesson.&rdquo;</p>\n<p>-James Clear</p>\n<p>#Quotes</p>\n",
+				"content_text": "\"Make a mistake? Release the guilt, remember the lesson.\"\n\n-James Clear\n\n#Quotes\n",
+				"date_published": "2024-06-28T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/06/28/make-a-mistake.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/27/talking-about-the.html",
 				
 				"content_html": "<p>Talking about the times you failed as a product manager and what you learned from them is always more interesting than talking about your successes.</p>\n<p>Forget the highlight reel. Share your bruises\nand cuts.</p>\n",
