@@ -7,10 +7,37 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/07/12/right-now-this.html",
+				"title": "Right now, this minute",
+				"content_html": "<blockquote>\n<p>“There has never been a better time with more opportunities, more openings, lower barriers, higher benefit/risk ratios, better returns, greater upside than now. Right now, this minute. This is the moment that folks in the future will look back at and say, “Oh, to have been alive and well back then!””</p>\n<p>-Kevin Kelly</p>\n</blockquote>\n<p>#LongQuotes</p>\n",
+				"content_text": ">“There has never been a better time with more opportunities, more openings, lower barriers, higher benefit/risk ratios, better returns, greater upside than now. Right now, this minute. This is the moment that folks in the future will look back at and say, “Oh, to have been alive and well back then!””\r\n>\r\n>-Kevin Kelly\r\n\r\n#LongQuotes\n",
+				"date_published": "2024-07-12T07:25:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/07/12/right-now-this.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/07/07/be-so-good.html",
+				
+				"content_html": "<blockquote>\n<p>“Be so good they can’t ignore you.”</p>\n<p>-Steve Martin</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“Be so good they can’t ignore you.”\r\n>\r\n>-Steve Martin\r\n\r\n#Quotes\n",
+				"date_published": "2024-07-07T12:08:13-04:00",
+				"url": "https://www.imminentmurphy.com/2024/07/07/be-so-good.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/07/04/he-who-is.html",
+				
+				"content_html": "<blockquote>\n<p>“He who is brave is free.”</p>\n<p>-Seneca</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“He who is brave is free.”\n>\n>-Seneca\n\n#Quotes\n",
+				"date_published": "2024-07-04T09:28:21-04:00",
+				"url": "https://www.imminentmurphy.com/2024/07/04/he-who-is.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/07/03/no-sensible-decision.html",
 				
-				"content_html": "<p>“No sensible decision can be made any longer without taking into account not only the world as it is, but the world as it will be.”</p>\n<p>-Isaac Asimov</p>\n<p>#Quotes</p>\n",
-				"content_text": "“No sensible decision can be made any longer without taking into account not only the world as it is, but the world as it will be.”\r\n\r\n -Isaac Asimov\r\n\r\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“No sensible decision can be made any longer without taking into account not only the world as it is, but the world as it will be.”</p>\n<p>-Isaac Asimov</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“No sensible decision can be made any longer without taking into account not only the world as it is, but the world as it will be.”\n>\n>-Isaac Asimov\n\n#Quotes\n",
 				"date_published": "2024-07-03T09:29:36-04:00",
 				"url": "https://www.imminentmurphy.com/2024/07/03/no-sensible-decision.html",
 				"tags": ["Quotes","Strategy"]
@@ -27,8 +54,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/30/we-should-be.html",
 				
-				"content_html": "<p>“We should be taught not to wait for inspiration to start a thing. Action always generates inspiration. Inspiration seldom generates action.”</p>\n<p>-Frank Tibolt</p>\n<p>#Quotes</p>\n",
-				"content_text": "“We should be taught not to wait for inspiration to start a thing. Action always generates inspiration. Inspiration seldom generates action.” \n\n-Frank Tibolt\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“We should be taught not to wait for inspiration to start a thing. Action always generates inspiration. Inspiration seldom generates action.”</p>\n<p>-Frank Tibolt</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“We should be taught not to wait for inspiration to start a thing. Action always generates inspiration. Inspiration seldom generates action.” \n>\n>-Frank Tibolt\n\n#Quotes\n",
 				"date_published": "2024-06-30T08:30:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/06/30/we-should-be.html",
 				"tags": ["Quotes"]
@@ -36,8 +63,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/29/rules-are-made.html",
 				
-				"content_html": "<p>“Rules are made for the convenience of those who are playing. What is fair at one time or in one game may be inhibiting later on. It’s not the game that’s sacred, it’s the people who are playing.”</p>\n<p>-Bernard De Koven, writing about playing games but easily applied to agile software development</p>\n<p>#Quotes</p>\n",
-				"content_text": "“Rules are made for the convenience of those who are playing. What is fair at one time or in one game may be inhibiting later on. It’s not the game that’s sacred, it’s the people who are playing.”\n\n-Bernard De Koven, writing about playing games but easily applied to agile software development\n \n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“Rules are made for the convenience of those who are playing. What is fair at one time or in one game may be inhibiting later on. It’s not the game that’s sacred, it’s the people who are playing.”</p>\n<p>-Bernard De Koven, writing about playing games but easily applied to agile software development</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“Rules are made for the convenience of those who are playing. What is fair at one time or in one game may be inhibiting later on. It’s not the game that’s sacred, it’s the people who are playing.”\n>\n>-Bernard De Koven, writing about playing games but easily applied to agile software development\n \n#Quotes\n",
 				"date_published": "2024-06-29T09:00:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/06/29/rules-are-made.html",
 				"tags": ["Quotes"]
@@ -45,8 +72,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/28/make-a-mistake.html",
 				
-				"content_html": "<p>&ldquo;Make a mistake? Release the guilt, remember the lesson.&rdquo;</p>\n<p>-James Clear</p>\n<p>#Quotes</p>\n",
-				"content_text": "\"Make a mistake? Release the guilt, remember the lesson.\"\n\n-James Clear\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>&ldquo;Make a mistake? Release the guilt, remember the lesson.&rdquo;</p>\n<p>-James Clear</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">\"Make a mistake? Release the guilt, remember the lesson.\"\n>\n>-James Clear\n\n#Quotes\n",
 				"date_published": "2024-06-28T08:30:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/06/28/make-a-mistake.html",
 				"tags": ["Quotes"]
@@ -63,8 +90,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/26/the-man-who.html",
 				
-				"content_html": "<p>“The man who does not read good books has no advantage over the man who cannot read them.&quot;</p>\n<p>-Mark Twain</p>\n<p>#Quotes</p>\n",
-				"content_text": "“The man who does not read good books has no advantage over the man who cannot read them.\"\n\n-Mark Twain\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“The man who does not read good books has no advantage over the man who cannot read them.&quot;</p>\n<p>-Mark Twain</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“The man who does not read good books has no advantage over the man who cannot read them.\"\n>\n>-Mark Twain\n\n#Quotes\n",
 				"date_published": "2024-06-26T08:30:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/06/26/the-man-who.html",
 				"tags": ["Quotes"]
@@ -72,8 +99,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/25/if-we-really.html",
 				
-				"content_html": "<p>“If we really care about our users, we’ll help them do what they want, not what we want.”</p>\n<p>-Kathy Sierra</p>\n<p>#Quotes #ProductManagement</p>\n",
-				"content_text": "“If we really care about our users, we’ll help them do what they want, not what we want.”\n\n-Kathy Sierra\n\n#Quotes #ProductManagement\n",
+				"content_html": "<blockquote>\n<p>“If we really care about our users, we’ll help them do what they want, not what we want.”</p>\n<p>-Kathy Sierra</p>\n</blockquote>\n<p>#Quotes #ProductManagement</p>\n",
+				"content_text": ">“If we really care about our users, we’ll help them do what they want, not what we want.”\n>\n>-Kathy Sierra\n\n#Quotes #ProductManagement\n",
 				"date_published": "2024-06-25T08:30:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/06/25/if-we-really.html",
 				"tags": ["Quotes","Product Management"]
@@ -99,8 +126,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/22/our-world-is.html",
 				
-				"content_html": "<p>&ldquo;Our world is random and messy. Collecting data does not make it more perfect or more controllable.&rdquo;</p>\n<p>-Giorgia Lupi</p>\n<p>#Quotes</p>\n",
-				"content_text": "\"Our world is random and messy. Collecting data does not make it more perfect or more controllable.\"\n\n-Giorgia Lupi\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>&ldquo;Our world is random and messy. Collecting data does not make it more perfect or more controllable.&rdquo;</p>\n<p>-Giorgia Lupi</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">\"Our world is random and messy. Collecting data does not make it more perfect or more controllable.\"\n>\n>-Giorgia Lupi\n\n#Quotes\n",
 				"date_published": "2024-06-22T08:30:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/06/22/our-world-is.html",
 				"tags": ["Quotes"]
@@ -126,8 +153,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/17/the-opposite-of.html",
 				
-				"content_html": "<p>“The opposite of courage is conforming.”</p>\n<p>-Brian Collins</p>\n<p>#Quotes</p>\n",
-				"content_text": "“The opposite of courage is conforming.”\n\n-Brian Collins\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“The opposite of courage is conforming.”</p>\n<p>-Brian Collins</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“The opposite of courage is conforming.”\n>\n>-Brian Collins\n\n#Quotes\n",
 				"date_published": "2024-06-17T08:03:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/06/17/the-opposite-of.html",
 				"tags": ["Quotes"]
@@ -135,8 +162,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/16/you-get-an.html",
 				
-				"content_html": "<p>“You get an astronaut’s life whether you want it or not. Leave it all behind for a world you know nothing about. That’s just the deal.&quot;</p>\n<p>-Joe Hill</p>\n<p>#Quotes</p>\n",
-				"content_text": "“You get an astronaut’s life whether you want it or not. Leave it all behind for a world you know nothing about. That’s just the deal.\"  \r\n\r\n-Joe Hill\r\n\r\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“You get an astronaut’s life whether you want it or not. Leave it all behind for a world you know nothing about. That’s just the deal.&quot;</p>\n<p>-Joe Hill</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“You get an astronaut’s life whether you want it or not. Leave it all behind for a world you know nothing about. That’s just the deal.\"  \n>\n>-Joe Hill\n\n#Quotes\n",
 				"date_published": "2024-06-16T06:48:14-04:00",
 				"url": "https://www.imminentmurphy.com/2024/06/16/you-get-an.html",
 				"tags": ["Quotes"]
@@ -162,8 +189,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/09/point-of-view.html",
 				
-				"content_html": "<p>“Point of view is worth 80 IQ points.”</p>\n<p>-Alan Kay</p>\n<p>#Quotes</p>\n",
-				"content_text": "“Point of view is worth 80 IQ points.”\n\n-Alan Kay\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“Point of view is worth 80 IQ points.”</p>\n<p>-Alan Kay</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“Point of view is worth 80 IQ points.”\n>\n>-Alan Kay\n\n#Quotes\n",
 				"date_published": "2024-06-09T08:30:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/06/09/point-of-view.html",
 				"tags": ["Quotes"]
@@ -171,8 +198,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/08/indeed-no-one.html",
 				
-				"content_html": "<p>“Indeed, no one can thwart the purposes of your mind - for they can’t be touched by fire, steel, tyranny, slander, or anything.”</p>\n<p>-Marcus Aurelius</p>\n<p>#Quotes</p>\n",
-				"content_text": "“Indeed, no one can thwart the purposes of your mind - for they can’t be touched by fire, steel, tyranny, slander, or anything.”\n\n-Marcus Aurelius\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“Indeed, no one can thwart the purposes of your mind - for they can’t be touched by fire, steel, tyranny, slander, or anything.”</p>\n<p>-Marcus Aurelius</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“Indeed, no one can thwart the purposes of your mind - for they can’t be touched by fire, steel, tyranny, slander, or anything.”\n>\n>-Marcus Aurelius\n\n#Quotes\n",
 				"date_published": "2024-06-08T09:30:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/06/08/indeed-no-one.html",
 				"tags": ["Quotes"]
@@ -180,8 +207,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/07/fairy-tales-do.html",
 				
-				"content_html": "<p>“Fairy tales do not tell children the dragons exist. Children already know that dragons exist. Fairy tales tell children the dragons can be killed.”</p>\n<p>-G.K. Chesterton</p>\n<p>#Quotes</p>\n",
-				"content_text": "“Fairy tales do not tell children the dragons exist. Children already know that dragons exist. Fairy tales tell children the dragons can be killed.”\n\n-G.K. Chesterton\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“Fairy tales do not tell children the dragons exist. Children already know that dragons exist. Fairy tales tell children the dragons can be killed.”</p>\n<p>-G.K. Chesterton</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“Fairy tales do not tell children the dragons exist. Children already know that dragons exist. Fairy tales tell children the dragons can be killed.”\n>\n>-G.K. Chesterton\n\n#Quotes\n",
 				"date_published": "2024-06-07T08:30:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/06/07/fairy-tales-do.html",
 				"tags": ["Quotes"]
@@ -198,8 +225,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/05/it-is-easier.html",
 				
-				"content_html": "<p>“It is easier to judge a man by his questions rather than by his answers.”</p>\n<p>-Pierre-Marc-Gaston de Lévis</p>\n<p>#Quotes</p>\n",
-				"content_text": "“It is easier to judge a man by his questions rather than by his answers.”\n\n-Pierre-Marc-Gaston de Lévis\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“It is easier to judge a man by his questions rather than by his answers.”</p>\n<p>-Pierre-Marc-Gaston de Lévis</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“It is easier to judge a man by his questions rather than by his answers.”\n>\n>-Pierre-Marc-Gaston de Lévis\n\n#Quotes\n",
 				"date_published": "2024-06-05T08:30:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/06/05/it-is-easier.html",
 				"tags": ["Quotes"]
@@ -216,8 +243,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/04/listening-is-the.html",
 				
-				"content_html": "<p>&ldquo;Listening is the engine of ingenuity. It&rsquo;s difficult to understand desires and detect problems, much less develop elegant solutions, without listening.&rdquo;</p>\n<p>-Kate Murphy (no relation 😁)</p>\n<p>#Quotes</p>\n",
-				"content_text": "\"Listening is the engine of ingenuity. It's difficult to understand desires and detect problems, much less develop elegant solutions, without listening.\"\n\n-Kate Murphy (no relation 😁)\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>&ldquo;Listening is the engine of ingenuity. It&rsquo;s difficult to understand desires and detect problems, much less develop elegant solutions, without listening.&rdquo;</p>\n<p>-Kate Murphy (no relation 😁)</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">\"Listening is the engine of ingenuity. It's difficult to understand desires and detect problems, much less develop elegant solutions, without listening.\"\n>\n>-Kate Murphy (no relation 😁)\n\n#Quotes\n",
 				"date_published": "2024-06-04T07:00:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/06/04/listening-is-the.html",
 				"tags": ["Quotes","Product Management","Consulting"]
@@ -225,8 +252,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/01/its-hard-to.html",
 				
-				"content_html": "<p>&ldquo;It&rsquo;s hard to do a really good job on anything you don&rsquo;t think about in the shower.&rdquo;</p>\n<p>-Paul Graham</p>\n<p>#Quotes</p>\n",
-				"content_text": "\"It's hard to do a really good job on anything you don't think about in the shower.\"\n\n-Paul Graham\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>&ldquo;It&rsquo;s hard to do a really good job on anything you don&rsquo;t think about in the shower.&rdquo;</p>\n<p>-Paul Graham</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">\"It's hard to do a really good job on anything you don't think about in the shower.\"\n>\n>-Paul Graham\n\n#Quotes\n",
 				"date_published": "2024-06-01T09:00:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/06/01/its-hard-to.html",
 				"tags": ["Quotes","Product Management","Consulting"]
@@ -234,8 +261,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/06/01/the-most-effective.html",
 				
-				"content_html": "<p>“The most effective communicators pause before they speak and ask themselves: Why am I opening my mouth?”</p>\n<p>-Charles Duhigg</p>\n<p>#Quotes</p>\n",
-				"content_text": "“The most effective communicators pause before they speak and ask themselves: Why am I opening my mouth?”\n\n-Charles Duhigg\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“The most effective communicators pause before they speak and ask themselves: Why am I opening my mouth?”</p>\n<p>-Charles Duhigg</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“The most effective communicators pause before they speak and ask themselves: Why am I opening my mouth?”\n>\n>-Charles Duhigg\n\n#Quotes\n",
 				"date_published": "2024-06-01T08:30:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/06/01/the-most-effective.html",
 				"tags": ["Quotes","Product Management","Consulting"]
@@ -243,8 +270,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/05/31/users-dont-evangelize.html",
 				
-				"content_html": "<p>“Users don’t evangelize to their friends because they like the product, they evangelized their friends because they like their friends.”</p>\n<p>-Kathy Sierra</p>\n<p>#Quotes</p>\n",
-				"content_text": "“Users don’t evangelize to their friends because they like the product, they evangelized their friends because they like their friends.”\n\n-Kathy Sierra\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“Users don’t evangelize to their friends because they like the product, they evangelized their friends because they like their friends.”</p>\n<p>-Kathy Sierra</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“Users don’t evangelize to their friends because they like the product, they evangelized their friends because they like their friends.”\n>\n>-Kathy Sierra\n\n#Quotes\n",
 				"date_published": "2024-05-31T09:30:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/05/31/users-dont-evangelize.html",
 				"tags": ["Quotes","Product Management"]
@@ -270,8 +297,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/05/28/creativity-is-just.html",
 				"title": "“Creativity is just problem solving”",
-				"content_html": "<p>“Creativity is just problem solving. Once people see it as problem solving, it stops seeming like magic, because it’s not. Brokers are just people who pay more attention to what problems look like and how they’ve been solved before. People who are most creative are the ones who have learned that feeling scared is a good sign. We just have to learn how to trust ourselves enough to let the creativity out.”</p>\n<p>-Ed Catmull</p>\n<p>#Quotes</p>\n",
-				"content_text": "“Creativity is just problem solving. Once people see it as problem solving, it stops seeming like magic, because it’s not. Brokers are just people who pay more attention to what problems look like and how they’ve been solved before. People who are most creative are the ones who have learned that feeling scared is a good sign. We just have to learn how to trust ourselves enough to let the creativity out.”\n\n-Ed Catmull\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“Creativity is just problem solving. Once people see it as problem solving, it stops seeming like magic, because it’s not. Brokers are just people who pay more attention to what problems look like and how they’ve been solved before. People who are most creative are the ones who have learned that feeling scared is a good sign. We just have to learn how to trust ourselves enough to let the creativity out.”</p>\n<p>-Ed Catmull</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“Creativity is just problem solving. Once people see it as problem solving, it stops seeming like magic, because it’s not. Brokers are just people who pay more attention to what problems look like and how they’ve been solved before. People who are most creative are the ones who have learned that feeling scared is a good sign. We just have to learn how to trust ourselves enough to let the creativity out.”\n>\n>-Ed Catmull\n\n#Quotes\n",
 				"date_published": "2024-05-28T08:00:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/05/28/creativity-is-just.html",
 				"tags": ["Quotes"]
@@ -288,8 +315,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/05/26/be-careful-not.html",
 				
-				"content_html": "<p>“Be careful not to overcomplicate your systems to the point where you can only maintain them when you are at your peak of mental clarity.”</p>\n<p>-the David Allen Company</p>\n<p>#Quotes</p>\n",
-				"content_text": "“Be careful not to overcomplicate your systems to the point where you can only maintain them when you are at your peak of mental clarity.”\n\n-the David Allen Company\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“Be careful not to overcomplicate your systems to the point where you can only maintain them when you are at your peak of mental clarity.”</p>\n<p>-the David Allen Company</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“Be careful not to overcomplicate your systems to the point where you can only maintain them when you are at your peak of mental clarity.”\n>\n>-the David Allen Company\n\n#Quotes\n",
 				"date_published": "2024-05-26T09:00:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/05/26/be-careful-not.html",
 				"tags": ["Quotes","Product Management","Consulting"]
@@ -297,8 +324,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/05/25/i-am-a.html",
 				
-				"content_html": "<p>“I am a great believer in luck. The harder I work, the more of it I seem to have.”</p>\n<p>-Coleman Cox</p>\n<p>#Quotes</p>\n",
-				"content_text": "“I am a great believer in luck. The harder I work, the more of it I seem to have.”\n\n-Coleman Cox\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“I am a great believer in luck. The harder I work, the more of it I seem to have.”</p>\n<p>-Coleman Cox</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“I am a great believer in luck. The harder I work, the more of it I seem to have.”\n>\n>-Coleman Cox\n\n#Quotes\n",
 				"date_published": "2024-05-25T08:00:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/05/25/i-am-a.html",
 				"tags": ["Quotes"]
@@ -324,8 +351,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/05/22/computers-fail-checklists.html",
 				
-				"content_html": "<p>“Computers fail, checklists fail, everything can fail. But people can’t. We have to make decisions, and that includes deciding what deserves our attention. The key is forcing yourself to think. As long as you’re thinking, you’re halfway home.”</p>\n<p>-Richard Champion de Crespigny</p>\n<p>#Quotes</p>\n",
-				"content_text": "“Computers fail, checklists fail, everything can fail. But people can’t. We have to make decisions, and that includes deciding what deserves our attention. The key is forcing yourself to think. As long as you’re thinking, you’re halfway home.”\n\n-Richard Champion de Crespigny\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“Computers fail, checklists fail, everything can fail. But people can’t. We have to make decisions, and that includes deciding what deserves our attention. The key is forcing yourself to think. As long as you’re thinking, you’re halfway home.”</p>\n<p>-Richard Champion de Crespigny</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“Computers fail, checklists fail, everything can fail. But people can’t. We have to make decisions, and that includes deciding what deserves our attention. The key is forcing yourself to think. As long as you’re thinking, you’re halfway home.”\n>\n>-Richard Champion de Crespigny\n\n#Quotes\n",
 				"date_published": "2024-05-22T08:30:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/05/22/computers-fail-checklists.html",
 				"tags": ["Quotes","Consulting"]
@@ -333,8 +360,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/05/21/by-far-the.html",
 				
-				"content_html": "<p>&ldquo;By far the dominant reason for not releasing sooner was a reluctance to trade the dream of success for the reality of feedback.&rdquo;</p>\n<p>-Kent Beck</p>\n<p>#Quotes</p>\n",
-				"content_text": "\"By far the dominant reason for not releasing sooner was a reluctance to trade the dream of success for the reality of feedback.\" \n\n-Kent Beck\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>&ldquo;By far the dominant reason for not releasing sooner was a reluctance to trade the dream of success for the reality of feedback.&rdquo;</p>\n<p>-Kent Beck</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">\"By far the dominant reason for not releasing sooner was a reluctance to trade the dream of success for the reality of feedback.\" \n>\n>-Kent Beck\n\n#Quotes\n",
 				"date_published": "2024-05-21T08:30:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/05/21/by-far-the.html",
 				"tags": ["Quotes","Product Management"]
@@ -351,8 +378,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/05/19/tell-me-what.html",
 				
-				"content_html": "<p>“Tell me, what is it you plan to do with your one wild and precious life.”</p>\n<ul>\n<li>Mary Oliver</li>\n</ul>\n<p>#Quotes</p>\n",
-				"content_text": "“Tell me, what is it you plan to do with your one wild and precious life.”\n\n - Mary Oliver\n\n #Quotes\n",
+				"content_html": "<blockquote>\n<p>“Tell me, what is it you plan to do with your one wild and precious life.”</p>\n<p>-Mary Oliver</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“Tell me, what is it you plan to do with your one wild and precious life.”\n>\n>-Mary Oliver\n\n #Quotes\n",
 				"date_published": "2024-05-19T08:30:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/05/19/tell-me-what.html",
 				"tags": ["Quotes"]
@@ -360,8 +387,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/05/18/it-is-what.html",
 				
-				"content_html": "<p>“It is what you read when you dont have to that determines what you will be when you can’t help it.”</p>\n<p>-Oscar Wilde</p>\n<p>#Quotes</p>\n",
-				"content_text": "“It is what you read when you dont have to that determines what you will be when you can’t help it.”\n\n-Oscar Wilde\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“It is what you read when you dont have to that determines what you will be when you can’t help it.”</p>\n<p>-Oscar Wilde</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“It is what you read when you dont have to that determines what you will be when you can’t help it.”\n>\n>-Oscar Wilde\n\n#Quotes\n",
 				"date_published": "2024-05-18T09:00:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/05/18/it-is-what.html",
 				"tags": ["Quotes"]
@@ -369,8 +396,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/05/16/an-enviroment-that.html",
 				
-				"content_html": "<p>“An enviroment that is not safe to disagree in is not an environment focused on growth - it’s an environment focused on control.”</p>\n<p>-Wendi Jade</p>\n<p>#Quotes</p>\n",
-				"content_text": "“An enviroment that is not safe to disagree in is not an environment focused on growth - it’s an environment focused on control.”\n\n-Wendi Jade\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“An enviroment that is not safe to disagree in is not an environment focused on growth - it’s an environment focused on control.”</p>\n<p>-Wendi Jade</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“An enviroment that is not safe to disagree in is not an environment focused on growth - it’s an environment focused on control.”\n>\n>-Wendi Jade\n\n#Quotes\n",
 				"date_published": "2024-05-16T08:30:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/05/16/an-enviroment-that.html",
 				"tags": ["Quotes"]
@@ -404,8 +431,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/05/12/motherhood-all-love.html",
 				
-				"content_html": "<p>“Motherhood: all love begins and ends there.”</p>\n<p>-Robert Browning</p>\n<p>#Quotes</p>\n",
-				"content_text": "“Motherhood: all love begins and ends there.”\n\n -Robert Browning \n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“Motherhood: all love begins and ends there.”</p>\n<p>-Robert Browning</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“Motherhood: all love begins and ends there.”\n>\n>-Robert Browning \n\n#Quotes\n",
 				"date_published": "2024-05-12T06:57:03-04:00",
 				"url": "https://www.imminentmurphy.com/2024/05/12/motherhood-all-love.html",
 				"tags": ["Quotes"]
@@ -413,8 +440,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/05/11/do-not-internalize.html",
 				
-				"content_html": "<p>“Do not internalize the industrial model. You are not one of the myriad of interchangeable pieces, but a unique human being, and if you’ve got something to say, say it, and think well of yourself while you’re learning to say it better.”</p>\n<p>-David Mamet</p>\n<p>#Quotes</p>\n",
-				"content_text": "“Do not internalize the industrial model. You are not one of the myriad of interchangeable pieces, but a unique human being, and if you’ve got something to say, say it, and think well of yourself while you’re learning to say it better.”\n\n-David Mamet\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“Do not internalize the industrial model. You are not one of the myriad of interchangeable pieces, but a unique human being, and if you’ve got something to say, say it, and think well of yourself while you’re learning to say it better.”</p>\n<p>-David Mamet</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“Do not internalize the industrial model. You are not one of the myriad of interchangeable pieces, but a unique human being, and if you’ve got something to say, say it, and think well of yourself while you’re learning to say it better.”\n>\n>-David Mamet\n\n#Quotes\n",
 				"date_published": "2024-05-11T08:30:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/05/11/do-not-internalize.html",
 				"tags": ["Quotes"]
@@ -431,8 +458,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/05/09/praise-each-other.html",
 				
-				"content_html": "<p>“Praise each other: Find something nice to say, even if it’s a stretch. The worst ideas can have silver linings if you look hard enough.”</p>\n<p>-Randy Pausch</p>\n<p>#Quotes</p>\n",
-				"content_text": "“Praise each other: Find something nice to say, even if it’s a stretch. The worst ideas can have silver linings if you look hard enough.”\n\n-Randy Pausch\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“Praise each other: Find something nice to say, even if it’s a stretch. The worst ideas can have silver linings if you look hard enough.”</p>\n<p>-Randy Pausch</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“Praise each other: Find something nice to say, even if it’s a stretch. The worst ideas can have silver linings if you look hard enough.”\n>\n>-Randy Pausch\n\n#Quotes\n",
 				"date_published": "2024-05-09T06:42:54-04:00",
 				"url": "https://www.imminentmurphy.com/2024/05/09/praise-each-other.html",
 				"tags": ["Quotes"]
