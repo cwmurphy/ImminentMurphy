@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/07/21/i-think-computer.html",
+				
+				"content_html": "<blockquote>\n<p>“I think computer viruses should count as life. I think it says something about human nature that the only form of life we have created so far is purely destructive. We’ve created life in our own image.”</p>\n<p>-Stephen Hawking</p>\n</blockquote>\n<p>I do I wonder what he would have thought about ChatGPT.</p>\n<p>#Quotes</p>\n",
+				"content_text": ">“I think computer viruses should count as life. I think it says something about human nature that the only form of life we have created so far is purely destructive. We’ve created life in our own image.” \r\n>\r\n>-Stephen Hawking\r\n\r\nI do I wonder what he would have thought about ChatGPT.\r\n\r\n#Quotes\n",
+				"date_published": "2024-07-21T12:36:38-04:00",
+				"url": "https://www.imminentmurphy.com/2024/07/21/i-think-computer.html"
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/07/19/the-universe-is.html",
+				
+				"content_html": "<blockquote>\n<p>“The universe is made of stories, not of atoms.”</p>\n<p>-Muriel Rukeyser</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“The universe is made of stories, not of atoms.”\r\n>\r\n>-Muriel Rukeyser\r\n\r\n#Quotes\r\n\r\n",
+				"date_published": "2024-07-19T08:29:13-04:00",
+				"url": "https://www.imminentmurphy.com/2024/07/19/the-universe-is.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/07/17/books-are-the.html",
 				
 				"content_html": "<blockquote>\n<p>“Books are the carriers of civilization. Without books, history is silent, literature dumb, science crippled, thought and speculation at a standstill.”</p>\n<p>-H.D. Thoreau</p>\n</blockquote>\n<p>#Quotes</p>\n",
