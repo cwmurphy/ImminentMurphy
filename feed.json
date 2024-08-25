@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/08/25/the-fact-that.html",
+				
+				"content_html": "<p>“The fact that you “can’t do” something can be embarrassing.</p>\n<p>But if you are “learning to do” something that is admirable.</p>\n<p>There are only tiny baby steps between can’t and learning.”</p>\n<p>-Kevin Kelly</p>\n<p>#Quotes</p>\n",
+				"content_text": "“The fact that you “can’t do” something can be embarrassing.\r\n\r\nBut if you are “learning to do” something that is admirable.\r\n\r\nThere are only tiny baby steps between can’t and learning.”\r\n\r\n-Kevin Kelly\r\n\r\n#Quotes\r\n",
+				"date_published": "2024-08-25T12:12:18-04:00",
+				"url": "https://www.imminentmurphy.com/2024/08/25/the-fact-that.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/08/21/repeat-after-me.html",
+				
+				"content_html": "<p>Repeat after me: Words like &ldquo;users&rdquo; and &ldquo;clients&rdquo; and &ldquo;customers&rdquo; are describing actual human beings.</p>\n<p>Understand their goals, their needs, their hopes, and their pains.</p>\n<p>And how do you do that? <em>Empathy.</em></p>\n",
+				"content_text": "Repeat after me: Words like \"users\" and \"clients\" and \"customers\" are describing actual human beings.\n\nUnderstand their goals, their needs, their hopes, and their pains.\n\nAnd how do you do that? *Empathy.*\n",
+				"date_published": "2024-08-21T12:00:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/08/21/repeat-after-me.html",
+				"tags": ["Product Management","Consulting"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/08/20/we-should-talk.html",
+				
+				"content_html": "<p>We should talk more about timing as product managers.</p>\n<p>​Too early, and the market isn&rsquo;t quite ready for you.</p>\n<p>​Too late, and someone (<em>everyone?</em>) is already there ahead of you.</p>\n<p>Think about &ldquo;when&quot;​ when you&rsquo;re planning out all of the &ldquo;what&rdquo; and &ldquo;how&rdquo;.</p>\n",
+				"content_text": "We should talk more about timing as product managers.\n\n​Too early, and the market isn't quite ready for you.\n\n​Too late, and someone (*everyone?*) is already there ahead of you.\n\nThink about \"when\"​ when you're planning out all of the \"what\" and \"how\".\n",
+				"date_published": "2024-08-20T17:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/08/20/we-should-talk.html",
+				"tags": ["Product Management"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/08/19/delivering-new-features.html",
 				
 				"content_html": "<p>Delivering new features feels good because it seems like measurable progress.</p>\n<p>​That&rsquo;s why it’s easy to find yourself stuck in &ldquo;feature factory&rdquo; mode.</p>\n<p>​Remember: <em>More features</em> doesn’t necessarily mean <em>more value</em> to your clients.  ​Focus on delivering on outcomes, not just outputs. </p>\n",
@@ -532,7 +559,7 @@
 				"content_text": ">“Be careful not to overcomplicate your systems to the point where you can only maintain them when you are at your peak of mental clarity.”\n>\n>-the David Allen Company\n\n#Quotes\n",
 				"date_published": "2024-05-26T09:00:00-04:00",
 				"url": "https://www.imminentmurphy.com/2024/05/26/be-careful-not.html",
-				"tags": ["Quotes","Product Management","Consulting"]
+				"tags": ["Quotes","Product Management","Consulting","Productivity"]
 			},
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/05/25/i-am-a.html",
