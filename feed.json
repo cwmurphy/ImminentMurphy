@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/09/07/ideas-are-easy.html",
+				
+				"content_html": "<blockquote>\n<p>&ldquo;Ideas are easy. Implementation is hard.&rdquo;</p>\n<p>-Guy Kawasaki</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">\"Ideas are easy. Implementation is hard.\"\r\n>\r\n>-Guy Kawasaki\r\n\r\n#Quotes\n",
+				"date_published": "2024-09-07T17:19:35-04:00",
+				"url": "https://www.imminentmurphy.com/2024/09/07/ideas-are-easy.html",
+				"tags": ["Quotes","Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/09/06/productmarket-fit-is.html",
+				
+				"content_html": "<p>Product-market fit is difficult to reach and it&rsquo;s always in motion. ALWAYS.</p>\n<p>From moment to moment, it&rsquo;s contracting or expanding in response to changes within the broader market environment.</p>\n<p>Pay very special attention to these changes.</p>\n",
+				"content_text": "Product-market fit is difficult to reach and it's always in motion. ALWAYS. \n\nFrom moment to moment, it's contracting or expanding in response to changes within the broader market environment.\n\nPay very special attention to these changes.\n",
+				"date_published": "2024-09-06T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/09/06/productmarket-fit-is.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/09/05/the-power-of.html",
+				"title": "The power of externalizing your thinking",
+				"content_html": "<p>As product managers - really as any sort of knowledge worker -  we often find ourselves caught up in a swirling vortex of new market information, emerging strategies, client requests, and shifting priorities.</p>\n<p>I&rsquo;ve always found the simple habit of externalizing my thinking - whether through writing or in visual representations - to be an effective means of cutting through this noise.</p>\n<p>So why should you bother to externalize your thoughts?</p>\n<ol>\n<li>\n<p><strong>Clarity</strong>: Externalizing our thinking forces us into organization and coherence. We often discover the gaps in our logic or unspoken assumptions as unexpected gaps and whitespace on the page.</p>\n</li>\n<li>\n<p><strong>Communication</strong>: What do we do as product managers? We radiate information with the goal of creating a shared understanding. Externalized thinking becomes the seeds for other artifacts that can eventually be shared with team members, stakeholders, and clients.</p>\n</li>\n<li>\n<p><strong>Iteration</strong>: Externalized thinking is by definition a tangible object. It can be interacted with, critiqued, and improved upon. Iteration is a fundamental driver of innovation.</p>\n</li>\n<li>\n<p><strong>Memory Aid</strong>: Modern neuroscience informs us that our brains are quite fallible and most often concerned with conserving energy instead of retaining and processing information. Externalization serves as a physical extension of our memory. It allows us a mechanism to offload information and free up our limited cognitive resources.</p>\n</li>\n</ol>\n<p><em>Remember</em>: your goal isn&rsquo;t to create a masterpiece here.</p>\n<p>The power lies in the process. By making your thinking tangible, you&rsquo;re improving your own understanding AND creating the opportunity for collaboration, refinement, and innovation.</p>\n",
+				"content_text": "As product managers - really as any sort of knowledge worker -  we often find ourselves caught up in a swirling vortex of new market information, emerging strategies, client requests, and shifting priorities.\n\nI've always found the simple habit of externalizing my thinking - whether through writing or in visual representations - to be an effective means of cutting through this noise.\n\nSo why should you bother to externalize your thoughts?\n\n1. **Clarity**: Externalizing our thinking forces us into organization and coherence. We often discover the gaps in our logic or unspoken assumptions as unexpected gaps and whitespace on the page.\n\n2. **Communication**: What do we do as product managers? We radiate information with the goal of creating a shared understanding. Externalized thinking becomes the seeds for other artifacts that can eventually be shared with team members, stakeholders, and clients.\n\n3. **Iteration**: Externalized thinking is by definition a tangible object. It can be interacted with, critiqued, and improved upon. Iteration is a fundamental driver of innovation.\n\n4. **Memory Aid**: Modern neuroscience informs us that our brains are quite fallible and most often concerned with conserving energy instead of retaining and processing information. Externalization serves as a physical extension of our memory. It allows us a mechanism to offload information and free up our limited cognitive resources.\n\n_Remember_: your goal isn't to create a masterpiece here.\n\nThe power lies in the process. By making your thinking tangible, you're improving your own understanding AND creating the opportunity for collaboration, refinement, and innovation.\n",
+				"date_published": "2024-09-05T12:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/09/05/the-power-of.html",
+				"tags": ["Product Management","Writing","Consulting"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/09/01/the-deepest-principle.html",
 				
 				"content_html": "<blockquote>\n<p>“The deepest principle in human nature is the craving to be appreciated.”</p>\n<p>-William James</p>\n</blockquote>\n<p>#Quotes</p>\n",
