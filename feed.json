@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/09/14/the-great-thing.html",
+				
+				"content_html": "<blockquote>\n<p>&ldquo;The great thing about fact-based decisions is that they can overrule the hierarchy.&rdquo;</p>\n<p>-Jeff Bezos</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">\"The great thing about fact-based decisions is that they can overrule the hierarchy.\"\n>\n>-Jeff Bezos\n\n#Quotes\n",
+				"date_published": "2024-09-14T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/09/14/the-great-thing.html",
+				"tags": ["Quotes","Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/09/12/when-working-on.html",
+				
+				"content_html": "<p>When working on a new roadmap, here are my 3 starter questions:</p>\n<ol>\n<li>Who&rsquo;s the intended audience?</li>\n<li>What do I want them to take away from this?</li>\n<li>What would be the outcome if this was published on the Internet?</li>\n</ol>\n<p>The needs of your audience and the realities of the market environment should shape the content. </p>\n",
+				"content_text": "When working on a new roadmap, here are my 3 starter questions:\n\n1. Who's the intended audience?\n2. What do I want them to take away from this?\n3. What would be the outcome if this was published on the Internet?\n\nThe needs of your audience and the realities of the market environment should shape the content. \n",
+				"date_published": "2024-09-12T12:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/09/12/when-working-on.html",
+				"tags": ["Product Management","Consulting"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/09/07/ideas-are-easy.html",
 				
 				"content_html": "<blockquote>\n<p>&ldquo;Ideas are easy. Implementation is hard.&rdquo;</p>\n<p>-Guy Kawasaki</p>\n</blockquote>\n<p>#Quotes</p>\n",
