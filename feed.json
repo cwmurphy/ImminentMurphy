@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/09/23/as-i-write.html",
+				
+				"content_html": "<p>As I write this, it’s early Monday morning and - reminder - now is the best time to go ahead block some uninterrupted Focus Time on your calendar for the week ahead.</p>\n<p>As a knowledge worker your thinking is your primary product. Tackling complex tasks effectively requires dedicated time and space.</p>\n",
+				"content_text": "As I write this, it’s early Monday morning and - reminder - now is the best time to go ahead block some uninterrupted Focus Time on your calendar for the week ahead.\n\nAs a knowledge worker your thinking is your primary product. Tackling complex tasks effectively requires dedicated time and space.\n",
+				"date_published": "2024-09-23T09:05:51-04:00",
+				"url": "https://www.imminentmurphy.com/2024/09/23/as-i-write.html",
+				"tags": ["Product Management","Consulting"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/09/17/remember-organize-your.html",
+				
+				"content_html": "<p>Remember: organize your product around the market it serves and not around your internal hierarchies.</p>\n<p>Said differently, roadmaps are not org-charts.</p>\n<p>#productmanagement</p>\n",
+				"content_text": "Remember: organize your product around the market it serves and not around your internal hierarchies.\n\nSaid differently, roadmaps are not org-charts.\n\n#productmanagement\n",
+				"date_published": "2024-09-17T16:00:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/09/17/remember-organize-your.html",
+				"tags": ["Product Management"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/09/14/the-great-thing.html",
 				
 				"content_html": "<blockquote>\n<p>&ldquo;The great thing about fact-based decisions is that they can overrule the hierarchy.&rdquo;</p>\n<p>-Jeff Bezos</p>\n</blockquote>\n<p>#Quotes</p>\n",
