@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/09/28/experience-is-not.html",
+				
+				"content_html": "<blockquote>\n<p>”Experience is not what happens to a man; it is what a man does with what happens to him.&quot;</p>\n<p>-Aldous Huxley</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">”Experience is not what happens to a man; it is what a man does with what happens to him.\"\r\n>\r\n>-Aldous Huxley\r\n\r\n#Quotes\n",
+				"date_published": "2024-09-28T15:05:56-04:00",
+				"url": "https://www.imminentmurphy.com/2024/09/28/experience-is-not.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/09/27/everyone-expects-you.html",
+				
+				"content_html": "<p>Everyone expects you to be dependable.</p>\n<p>Everyone expects you to know what you&rsquo;re talking about.</p>\n<p>Exceeding expectations is hard - and it gets harder to repeat as expectations rise over time.</p>\n<p>But it is SUCH a powerful way to build a relationship with your customers.</p>\n",
+				"content_text": "Everyone expects you to be dependable. \n\nEveryone expects you to know what you're talking about. \n\nExceeding expectations is hard - and it gets harder to repeat as expectations rise over time.\n\nBut it is SUCH a powerful way to build a relationship with your customers.\n",
+				"date_published": "2024-09-27T13:02:07-04:00",
+				"url": "https://www.imminentmurphy.com/2024/09/27/everyone-expects-you.html",
+				"tags": ["Product Management","Consulting"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/09/25/great-product-teams.html",
+				
+				"content_html": "<p>Great product teams shape the entire culture of problem-solving, innovation, and learning within a company.</p>\n",
+				"content_text": "Great product teams shape the entire culture of problem-solving, innovation, and learning within a company.\r\n",
+				"date_published": "2024-09-25T10:49:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/09/25/great-product-teams.html",
+				"tags": ["Product Management"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/09/23/as-i-write.html",
 				
 				"content_html": "<p>As I write this, it’s early Monday morning and - reminder - now is the best time to go ahead block some uninterrupted Focus Time on your calendar for the week ahead.</p>\n<p>As a knowledge worker your thinking is your primary product. Tackling complex tasks effectively requires dedicated time and space.</p>\n",
