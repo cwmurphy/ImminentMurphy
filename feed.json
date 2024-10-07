@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/10/07/listen-listen-listen.html",
+				
+				"content_html": "<p>Listen, listen, listen to your clients - but remember: they&rsquo;re experts in their problems, not your solutions.</p>\n",
+				"content_text": "Listen, listen, listen to your clients - but remember: they're experts in their problems, not your solutions.\n",
+				"date_published": "2024-10-07T09:21:06-04:00",
+				"url": "https://www.imminentmurphy.com/2024/10/07/listen-listen-listen.html",
+				"tags": ["Product Management","Consulting"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/10/03/dont-wait-for.html",
+				
+				"content_html": "<p>Don&rsquo;t wait for the perfect moment to reach out - build your network consistently.</p>\n<p>Don&rsquo;t just ask for favors - add value whenever you can.</p>\n<p>The relationships you cultivate today will shape your tomorrow.</p>\n",
+				"content_text": "Don't wait for the perfect moment to reach out - build your network consistently. \r\n\r\nDon't just ask for favors - add value whenever you can.\r\n\r\nThe relationships you cultivate today will shape your tomorrow.\r\n",
+				"date_published": "2024-10-03T08:59:40-04:00",
+				"url": "https://www.imminentmurphy.com/2024/10/03/dont-wait-for.html",
+				"tags": ["Product Management","Consulting"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/09/29/what-we-remember.html",
+				
+				"content_html": "<blockquote>\n<p>“What we remember from childhood we remember forever - permanent ghosts, stamped, inked, imprinted, eternally seen.”</p>\n<p>-Cynthia Ozick</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“What we remember from childhood we remember forever - permanent ghosts, stamped, inked, imprinted, eternally seen.”\n>\n>-Cynthia Ozick\n\n#Quotes\n",
+				"date_published": "2024-09-29T01:00:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/09/29/what-we-remember.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/09/28/experience-is-not.html",
 				
 				"content_html": "<blockquote>\n<p>”Experience is not what happens to a man; it is what a man does with what happens to him.&quot;</p>\n<p>-Aldous Huxley</p>\n</blockquote>\n<p>#Quotes</p>\n",
