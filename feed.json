@@ -7,10 +7,64 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/10/13/the-farther-back.html",
+				
+				"content_html": "<blockquote>\n<p>“The farther back you can look, the farther forward you are likely to see.”</p>\n<p>-Winston Churchill</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": "> “The farther back you can look, the farther forward you are likely to see.”\r\n>\r\n>-Winston Churchill\r\n\r\n#Quotes\r\n",
+				"date_published": "2024-10-13T11:31:36-04:00",
+				"url": "https://www.imminentmurphy.com/2024/10/13/the-farther-back.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/10/12/the-mind-is.html",
+				
+				"content_html": "<blockquote>\n<p>”The mind is not a vessel that needs filling but wood that needs igniting.&quot;</p>\n<p>-Plutarch</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">”The mind is not a vessel that needs filling but wood that needs igniting.\" \r\n>\r\n>-Plutarch\r\n\r\n#Quotes\r\n",
+				"date_published": "2024-10-12T06:30:12-04:00",
+				"url": "https://www.imminentmurphy.com/2024/10/12/the-mind-is.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/10/11/but-weve-always.html",
+				
+				"content_html": "<p>&ldquo;But we&rsquo;ve always done it this way!&rdquo;</p>\n<p>Some of the most frightening words to hear&hellip; but so very ripe with opportunities.</p>\n",
+				"content_text": "\"But we've always done it this way!\"\r\n\r\nSome of the most frightening words to hear... but so very ripe with opportunities.\r\n",
+				"date_published": "2024-10-11T10:35:53-04:00",
+				"url": "https://www.imminentmurphy.com/2024/10/11/but-weve-always.html",
+				"tags": ["Product Management","Consulting"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/10/10/think-about-it.html",
+				
+				"content_html": "<p>Think about it like this:</p>\n<p>Every time you deploy, you&rsquo;re really shipping new/better/different outcomes.</p>\n",
+				"content_text": "Think about it like this: \r\n\r\nEvery time you deploy, you're really shipping new/better/different outcomes.\n",
+				"date_published": "2024-10-10T08:31:19-04:00",
+				"url": "https://www.imminentmurphy.com/2024/10/10/think-about-it.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/10/09/yes-yes-yes.html",
+				
+				"content_html": "<p>Yes, yes, yes - you make wonderful hammers.  (Congratulations!)</p>\n<p>But how successful are your clients at actually building with them?</p>\n<p>Your product&rsquo;s success should really only be measured by your clients' successes.</p>\n",
+				"content_text": "Yes, yes, yes - you make wonderful hammers.  (Congratulations!)\r\n\r\nBut how successful are your clients at actually building with them?\r\n\r\nYour product's success should really only be measured by your clients' successes.\r\n",
+				"date_published": "2024-10-09T09:59:02-04:00",
+				"url": "https://www.imminentmurphy.com/2024/10/09/yes-yes-yes.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/10/08/a-feature-without.html",
+				
+				"content_html": "<p>A feature without a very clear &ldquo;why&rdquo; just shouldn&rsquo;t exist.</p>\n",
+				"content_text": "A feature without a very clear \"why\" just shouldn't exist.\n",
+				"date_published": "2024-10-08T10:24:24-04:00",
+				"url": "https://www.imminentmurphy.com/2024/10/08/a-feature-without.html",
+				"tags": ["Product Management"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/10/07/listen-listen-listen.html",
 				
-				"content_html": "<p>Listen, listen, listen to your clients - but remember: they&rsquo;re experts in their problems, not your solutions.</p>\n",
-				"content_text": "Listen, listen, listen to your clients - but remember: they're experts in their problems, not your solutions.\n",
+				"content_html": "<p>Listen, listen, listen to your clients - but remember: they&rsquo;re experts in their problems, not your solutions.</p>\n<p>Your job is not to build what users ask for but to understand why they&rsquo;re asking for it.</p>\n",
+				"content_text": "Listen, listen, listen to your clients - but remember: they're experts in their problems, not your solutions.\n\nYour job is not to build what users ask for but to understand why they're asking for it.\n",
 				"date_published": "2024-10-07T09:21:06-04:00",
 				"url": "https://www.imminentmurphy.com/2024/10/07/listen-listen-listen.html",
 				"tags": ["Product Management","Consulting"]
