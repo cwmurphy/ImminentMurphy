@@ -7,6 +7,41 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/10/18/whats-a-sign.html",
+				
+				"content_html": "<p>What&rsquo;s a sign of an effective product managers?</p>\n<p>Someone who consistently turns constraints into catalysts for further creativity and innovation.</p>\n",
+				"content_text": "What's a sign of an effective product managers? \n\nSomeone who consistently turns constraints into catalysts for further creativity and innovation.\n",
+				"date_published": "2024-10-18T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/10/18/whats-a-sign.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/10/17/your-products-user.html",
+				
+				"content_html": "<p>Your product&rsquo;s user experience can spark joy and create emotional connections while also solving meaningful problems.</p>\n<p>These aren&rsquo;t mutually exclusive concepts.</p>\n",
+				"content_text": "Your product's user experience can spark joy and create emotional connections while also solving meaningful problems.\r\n\r\nThese aren't mutually exclusive concepts.\n",
+				"date_published": "2024-10-17T10:36:26-04:00",
+				"url": "https://www.imminentmurphy.com/2024/10/17/your-products-user.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/10/16/one-of-the.html",
+				
+				"content_html": "<p>One of the highly science fictional bits of &ldquo;When Gravity Fails&rdquo; (Effinger’s early cyberpunk novel published in 1986) was the protagonist&rsquo;s phone which was - <em>gasp!</em> - small enough to easily clip to his belt and carry around.</p>\n<p>Remember: right now we are dreaming up the future we may one day inhabit.</p>\n",
+				"content_text": "One of the highly science fictional bits of \"When Gravity Fails\" (Effinger’s early cyberpunk novel published in 1986) was the protagonist's phone which was - _gasp!_ - small enough to easily clip to his belt and carry around.\r\n\r\nRemember: right now we are dreaming up the future we may one day inhabit.\r\n",
+				"date_published": "2024-10-16T11:11:59-04:00",
+				"url": "https://www.imminentmurphy.com/2024/10/16/one-of-the.html"
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/10/15/sometimes-you-receive.html",
+				
+				"content_html": "<p>Sometimes you receive the most valuable feedback when you lose a client.</p>\n<p>Great features can be born from the most frustrating user experiences.</p>\n",
+				"content_text": "Sometimes you receive the most valuable feedback when you lose a client.\r\n\r\nGreat features can be born from the most frustrating user experiences.\r\n",
+				"date_published": "2024-10-15T08:51:09-04:00",
+				"url": "https://www.imminentmurphy.com/2024/10/15/sometimes-you-receive.html",
+				"tags": ["Product Management"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/10/13/the-farther-back.html",
 				
 				"content_html": "<blockquote>\n<p>“The farther back you can look, the farther forward you are likely to see.”</p>\n<p>-Winston Churchill</p>\n</blockquote>\n<p>#Quotes</p>\n",
