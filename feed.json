@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/10/30/consider-how-the.html",
+				
+				"content_html": "<p>Consider how the Apple Watch&rsquo;s focus shifted fashion accessory into a heavy emphasis on providing fitness and health tracking metrics.</p>\n<p>You should always start by solving a small - yet meaningful - problem exceptionally well. Then build upwards and outwards from that essential kernel. </p>\n",
+				"content_text": "Consider how the Apple Watch's focus shifted fashion accessory into a heavy emphasis on providing fitness and health tracking metrics.\r\n\r\nYou should always start by solving a small - yet meaningful - problem exceptionally well. Then build upwards and outwards from that essential kernel. \r\n",
+				"date_published": "2024-10-30T11:30:14-04:00",
+				"url": "https://www.imminentmurphy.com/2024/10/30/consider-how-the.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/10/29/remember-to-consider.html",
+				
+				"content_html": "<p>Remember to consider the cost of NOT building something whenever you&rsquo;re prioritizing features in your backlog.</p>\n<p>What happens if you wait?</p>\n<p>Something terrible? Nothing at all?</p>\n",
+				"content_text": "Remember to consider the cost of NOT building something whenever you're prioritizing features in your backlog. \r\n\r\nWhat happens if you wait?\r\n\r\nSomething terrible? Nothing at all?\n",
+				"date_published": "2024-10-29T08:00:45-04:00",
+				"url": "https://www.imminentmurphy.com/2024/10/29/remember-to-consider.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/10/28/we-are-raised.html",
+				
+				"content_html": "<p>We are raised on fables of ants and grasshoppers and the harsh winter that’s looming up ahead of all of us.</p>\n<p>We put things off because it seems responsible and - of course - there will be ample time left in the future to get around to it.</p>\n<p>Remember, my fellow ants: tomorrow is never promised.</p>\n",
+				"content_text": "We are raised on fables of ants and grasshoppers and the harsh winter that’s looming up ahead of all of us.\n\nWe put things off because it seems responsible and - of course - there will be ample time left in the future to get around to it.\n\nRemember, my fellow ants: tomorrow is never promised. \n",
+				"date_published": "2024-10-28T09:57:55-04:00",
+				"url": "https://www.imminentmurphy.com/2024/10/28/we-are-raised.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/10/27/people-who-offer.html",
+				
+				"content_html": "<blockquote>\n<p>&ldquo;People who offer bad advice are trying to relive their old glories.&rdquo;</p>\n<p>-Mike Maples Jr.</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": "> \"People who offer bad advice are trying to relive their old glories.\"\r\n>\r\n>-Mike Maples Jr.\r\n\r\n#Quotes\r\n",
+				"date_published": "2024-10-27T10:14:55-04:00",
+				"url": "https://www.imminentmurphy.com/2024/10/27/people-who-offer.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/10/26/the-most-useful.html",
+				
+				"content_html": "<blockquote>\n<p>“The most useful piece of learning for the uses of life is to unlearn what is untrue”</p>\n<p>-Antisthenes</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“The most useful piece of learning for the uses of life is to unlearn what is untrue”\n>\n>-Antisthenes\n\n#Quotes\n",
+				"date_published": "2024-10-26T08:30:00-04:00",
+				"url": "https://www.imminentmurphy.com/2024/10/26/the-most-useful.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/10/25/your-product-is.html",
+				
+				"content_html": "<p>Your product is not for everyone. This is a totally acceptable state of affairs.</p>\n<p>Define your personas. Know who the product is for and - equally important - who it&rsquo;s not for.</p>\n<p>BONUS: This will also help you figure out how to talk with them about the value you&rsquo;re creating.</p>\n",
+				"content_text": "Your product is not for everyone. This is a totally acceptable state of affairs.\r\n\r\nDefine your personas. Know who the product is for and - equally important - who it's not for.\r\n\r\nBONUS: This will also help you figure out how to talk with them about the value you're creating.\r\n",
+				"date_published": "2024-10-25T09:09:24-04:00",
+				"url": "https://www.imminentmurphy.com/2024/10/25/your-product-is.html",
+				"tags": ["Product Management","Consulting"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/10/24/you-focus-on.html",
 				
 				"content_html": "<p>You focus on building understanding first and foremost. Then go build new features.</p>\n",
