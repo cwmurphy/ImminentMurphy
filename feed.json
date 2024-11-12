@@ -7,10 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/11/09/the-easiest-way.html",
+				
+				"content_html": "<blockquote>\n<p>&ldquo;The easiest way to learn directly is to simply spend a lot of time doing the thing you want to become good at.&rdquo;</p>\n<p>-Scott H. Young</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">\"The easiest way to learn directly is to simply spend a lot of time doing the thing you want to become good at.\"\n>\n>-Scott H. Young\n\n#Quotes\n",
+				"date_published": "2024-11-09T07:42:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/11/09/the-easiest-way.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/11/05/always-have-a.html",
+				
+				"content_html": "<p>Always have a well-understood rubric for determining the difference between urgent and important things when you&rsquo;re  prioritizing your backlog.</p>\n<p>This adds transparency and helps communicate your thinking in any planning discussions.</p>\n<p>Bonus points if you socialize it well in advance too.</p>\n",
+				"content_text": "Always have a well-understood rubric for determining the difference between urgent and important things when you're  prioritizing your backlog.\r\n\r\nThis adds transparency and helps communicate your thinking in any planning discussions.\r\n\r\nBonus points if you socialize it well in advance too.\n",
+				"date_published": "2024-11-05T11:16:55-05:00",
+				"url": "https://www.imminentmurphy.com/2024/11/05/always-have-a.html",
+				"tags": ["Product Management"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/11/04/im-pretty-sure.html",
 				
-				"content_html": "<p>I&rsquo;m pretty sure that asking an AI to create complex regular expressions on your behalf based upon your conversations should be a specific part of the Turing test.</p>\n",
-				"content_text": "I'm pretty sure that asking an AI to create complex regular expressions on your behalf based upon your conversations should be a specific part of the Turing test.\n",
+				"content_html": "<p>I&rsquo;m pretty sure that asking an AI to create complex regular expressions based upon your conversations should be a specific part of the Turing test.</p>\n",
+				"content_text": "I'm pretty sure that asking an AI to create complex regular expressions based upon your conversations should be a specific part of the Turing test.\n",
 				"date_published": "2024-11-04T11:17:44-05:00",
 				"url": "https://www.imminentmurphy.com/2024/11/04/im-pretty-sure.html"
 			},
