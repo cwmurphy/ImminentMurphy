@@ -7,6 +7,58 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/11/18/ive-worked-in.html",
+				
+				"content_html": "<p>I&rsquo;ve worked in an industry that prides itself on dramatic upheaval and reinvention my entire life.</p>\n<p>Spending the time early-career to learn vi editing commands has proven to be one of the most durable investments I&rsquo;ve ever made in my education.</p>\n",
+				"content_text": "I've worked in an industry that prides itself on dramatic upheaval and reinvention my entire life.\r\n\r\nSpending the time early-career to learn vi editing commands has proven to be one of the most durable investments I've ever made in my education.\r\n",
+				"date_published": "2024-11-18T10:05:47-05:00",
+				"url": "https://www.imminentmurphy.com/2024/11/18/ive-worked-in.html"
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/11/17/when-asked-how.html",
+				
+				"content_html": "<blockquote>\n<p>“When asked how he would order his thoughts if he had one hour to save the world, Einstein sagely responded that he would spend fifty-five minutes defining the problem and save the world in five minutes.”</p>\n<p>-Jim Mattis</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“When asked how he would order his thoughts if he had one hour to save the world, Einstein sagely responded that he would spend fifty-five minutes defining the problem and save the world in five minutes.”\r\n>\r\n>-Jim Mattis\r\n\r\n#Quotes\n",
+				"date_published": "2024-11-17T07:19:47-05:00",
+				"url": "https://www.imminentmurphy.com/2024/11/17/when-asked-how.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/11/16/the-future-is.html",
+				
+				"content_html": "<blockquote>\n<p>“The future is unwritten.”</p>\n<p>-Joe Strummer</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“The future is unwritten.”\n>\n>-Joe Strummer\n\n#Quotes\n",
+				"date_published": "2024-11-16T08:30:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/11/16/the-future-is.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/11/15/wordle-and-edison.html",
+				"title": "Wordle and Edison",
+				"content_html": "<p>I really enjoy playing Wordle each day. It’s now become a standard part of my morning routine. With a mug of hot coffee in hand, I start a new game immediately after finishing my journaling.</p>\n<p>One of the things I genuinely appreciate about Wordle is how it reminds me that my mistakes actually contain valuable bits of  information.</p>\n<p>Maybe a letter isn’t in the word at all and can be ignored.</p>\n<p>Maybe it’s there but not yet in the right place.</p>\n<p>It&rsquo;s all worth paying attention to and by carefully considering my mistakes, I’m eventually led to the right answer.</p>\n<p>This applies to all things in life really.</p>\n<p>Which makes me think of what Thomas Edison was talking about when he famously remarked,</p>\n<blockquote>\n<p>&ldquo;I have not failed. I&rsquo;ve just found 10,000 ways that won&rsquo;t work.&rdquo;</p>\n</blockquote>\n<p>As long as you’re learning from your mistakes, missteps, and failures you’re growing smarter and heading in the right direction.</p>\n",
+				"content_text": "I really enjoy playing Wordle each day. It’s now become a standard part of my morning routine. With a mug of hot coffee in hand, I start a new game immediately after finishing my journaling. \n\nOne of the things I genuinely appreciate about Wordle is how it reminds me that my mistakes actually contain valuable bits of  information. \n\nMaybe a letter isn’t in the word at all and can be ignored.\n\nMaybe it’s there but not yet in the right place.\n\nIt's all worth paying attention to and by carefully considering my mistakes, I’m eventually led to the right answer.\n\nThis applies to all things in life really.\n\nWhich makes me think of what Thomas Edison was talking about when he famously remarked,\n>\"I have not failed. I've just found 10,000 ways that won't work.\"\n\nAs long as you’re learning from your mistakes, missteps, and failures you’re growing smarter and heading in the right direction.\n",
+				"date_published": "2024-11-15T10:25:06-05:00",
+				"url": "https://www.imminentmurphy.com/2024/11/15/wordle-and-edison.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/11/14/whats-builds-loyalty.html",
+				
+				"content_html": "<p>What builds loyalty and trust?</p>\n<p>Consistently delivering on your product&rsquo;s core promise again and again, from release to release and in every single interaction.</p>\n",
+				"content_text": "What builds loyalty and trust?\r\n\r\nConsistently delivering on your product's core promise again and again, from release to release and in every single interaction.\n",
+				"date_published": "2024-11-14T12:18:46-05:00",
+				"url": "https://www.imminentmurphy.com/2024/11/14/whats-builds-loyalty.html"
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/11/13/ive-been-learning.html",
+				
+				"content_html": "<p>I’ve been learning how to setup neovim as a modern writing environment, an interface into my Obsidian vault.</p>\n<p>No, I’m not actually writing anything during the process - but the experimentation is just fascinating.</p>\n<p>Am I repurposing a fusion powered turbine for use as a lawn mower? I mean, maybe?</p>\n",
+				"content_text": "I’ve been learning how to setup neovim as a modern writing environment, an interface into my Obsidian vault.\n\nNo, I’m not actually writing anything during the process - but the experimentation is just fascinating.\n \nAm I repurposing a fusion powered turbine for use as a lawn mower? I mean, maybe?\n",
+				"date_published": "2024-11-13T21:18:23-05:00",
+				"url": "https://www.imminentmurphy.com/2024/11/13/ive-been-learning.html",
+				"tags": ["Misc"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/11/09/the-easiest-way.html",
 				
 				"content_html": "<blockquote>\n<p>&ldquo;The easiest way to learn directly is to simply spend a lot of time doing the thing you want to become good at.&rdquo;</p>\n<p>-Scott H. Young</p>\n</blockquote>\n<p>#Quotes</p>\n",
