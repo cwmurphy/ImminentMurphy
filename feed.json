@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/11/23/truth-is-the.html",
+				
+				"content_html": "<blockquote>\n<p>“Truth is the daughter of time, not of authority.”</p>\n<p>-Francis Bacon</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“Truth is the daughter of time, not of authority.”\n>\n>-Francis Bacon\n\n#Quotes\n",
+				"date_published": "2024-11-23T07:42:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/11/23/truth-is-the.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/11/22/instead-of-asking.html",
+				
+				"content_html": "<p>Instead of asking &ldquo;what went well / what needs improving&rdquo; during your next retrospective, try giving everyone the chance to talk about how they were challenged, what they learned, and how they personally grew during a sprint (or project, or&hellip;)</p>\n<p>Changing the framing can make all the difference.</p>\n",
+				"content_text": "Instead of asking \"what went well / what needs improving\" during your next retrospective, try giving everyone the chance to talk about how they were challenged, what they learned, and how they personally grew during a sprint (or project, or...)\r\n\r\nChanging the framing can make all the difference.\r\n",
+				"date_published": "2024-11-22T10:43:42-05:00",
+				"url": "https://www.imminentmurphy.com/2024/11/22/instead-of-asking.html",
+				"tags": ["Product Management","Consulting"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/11/21/i-find-myself.html",
+				
+				"content_html": "<p>I find myself talking a lot more about how products adapt to unexpected changes in their operating environment.</p>\n<p>The world is messy but our products don&rsquo;t need to be fragile.</p>\n<p>Resilience is quickly becoming a basic expectation in an increasingly chaotic time.</p>\n",
+				"content_text": "I find myself talking a lot more about how products adapt to unexpected changes in their operating environment. \r\n\r\nThe world is messy but our products don't need to be fragile.\r\n\r\nResilience is quickly becoming a basic expectation in an increasingly chaotic time. \r\n",
+				"date_published": "2024-11-21T12:12:01-05:00",
+				"url": "https://www.imminentmurphy.com/2024/11/21/i-find-myself.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/11/20/i-am-reminded.html",
+				
+				"content_html": "<p>I am reminded (yet again!) that I always need to be clarifying, repeating, and doing what can feel like over-explaining in the moment.</p>\n<p>It really, really does save time, reduce friction, and end up building trust.</p>\n",
+				"content_text": "I am reminded (yet again!) that I always need to be clarifying, repeating, and doing what can feel like over-explaining in the moment.\r\n\r\nIt really, really does save time, reduce friction, and end up building trust.\r\n",
+				"date_published": "2024-11-20T10:27:04-05:00",
+				"url": "https://www.imminentmurphy.com/2024/11/20/i-am-reminded.html",
+				"tags": ["Product Management","Consulting"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/11/19/the-future-is.html",
+				
+				"content_html": "<blockquote>\n<p>“The future is like weather: a thousand thunderheads on the horizon, a haze of weird thunder-sleet in our eyes, and we never know where the lightning is going to strike. The best we can do is prepare for each possible hit by testing the possibilities.”</p>\n<p>-Warren Ellis</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“The future is like weather: a thousand thunderheads on the horizon, a haze of weird thunder-sleet in our eyes, and we never know where the lightning is going to strike. The best we can do is prepare for each possible hit by testing the possibilities.”\n>\n>-Warren Ellis\n\n#Quotes\n",
+				"date_published": "2024-11-19T07:19:58-05:00",
+				"url": "https://www.imminentmurphy.com/2024/11/19/the-future-is.html",
+				"tags": ["Quotes","Product Management"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/11/18/ive-worked-in.html",
 				
 				"content_html": "<p>I&rsquo;ve worked in an industry that prides itself on dramatic upheaval and reinvention my entire life.</p>\n<p>Spending the time early-career to learn vi editing commands has proven to be one of the most durable investments I&rsquo;ve ever made in my education.</p>\n",
