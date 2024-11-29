@@ -7,6 +7,59 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/11/29/blueskys-starter-packs.html",
+				
+				"content_html": "<p>BlueSky’s Starter packs are pretty nifty.</p>\n<p>They’re a unique, differentiating feature that is immediately useful for bootstrapping communities.</p>\n<p>Which raises engagement and participation, core goals for the product.</p>\n<p>In retrospect, they’re pretty obvious.</p>\n",
+				"content_text": "BlueSky’s Starter packs are pretty nifty.\r\n\r\nThey’re a unique, differentiating feature that is immediately useful for bootstrapping communities.\r\n\r\nWhich raises engagement and participation, core goals for the product.\r\n\r\nIn retrospect, they’re pretty obvious.\r\n",
+				"date_published": "2024-11-29T08:38:30-05:00",
+				"url": "https://www.imminentmurphy.com/2024/11/29/blueskys-starter-packs.html"
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/11/28/kevin-kelly-writes.html",
+				
+				"content_html": "<p>Kevin Kelly writes:</p>\n<blockquote>\n<p>“Gratitude will unlock all other virtues and is something you can get better at.”</p>\n</blockquote>\n<p>I couldn’t agree more.</p>\n",
+				"content_text": "Kevin Kelly writes:\n\n>“Gratitude will unlock all other virtues and is something you can get better at.”\n\nI couldn’t agree more.\n\n",
+				"date_published": "2024-11-28T08:08:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/11/28/kevin-kelly-writes.html",
+				"tags": ["Quotes","Misc"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/11/27/the-best-single.html",
+				
+				"content_html": "<p>The best single sentence (so far) from “Nexus” by Yuval Noah Harari :</p>\n<blockquote>\n<p>”As Marshall McLuhan might have put it, the pigeon was the message.”</p>\n</blockquote>\n",
+				"content_text": "The best single sentence (so far) from “Nexus” by Yuval Noah Harari :\n\n>”As Marshall McLuhan might have put it, the pigeon was the message.”\n",
+				"date_published": "2024-11-27T07:49:09-05:00",
+				"url": "https://www.imminentmurphy.com/2024/11/27/the-best-single.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/11/26/time-is-your.html",
+				
+				"content_html": "<p>Time is your clients’ most valuable currency.</p>\n<p>And it’s yours too.</p>\n",
+				"content_text": "Time is your clients’ most valuable currency.\r\n\r\nAnd it’s yours too.\n",
+				"date_published": "2024-11-26T13:50:06-05:00",
+				"url": "https://www.imminentmurphy.com/2024/11/26/time-is-your.html",
+				"tags": ["Product Management","Consulting"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/11/25/my-first-insight.html",
+				
+				"content_html": "<p>My first insight into AI&rsquo;s genuine utility came when I asked ChatGPT to tell me how an unfamiliar Python library worked, as if I were a young child.</p>\n<p>Even if its answer had been wrong - like an ill-advised coworker - it gave enough insight to remove my block and keep moving forward.</p>\n<p>(But it wasn&rsquo;t.)</p>\n",
+				"content_text": "My first insight into AI's genuine utility came when I asked ChatGPT to tell me how an unfamiliar Python library worked, as if I were a young child.\n\nEven if its answer had been wrong - like an ill-advised coworker - it gave enough insight to remove my block and keep moving forward.\n\n(But it wasn't.)\n",
+				"date_published": "2024-11-25T10:19:35-05:00",
+				"url": "https://www.imminentmurphy.com/2024/11/25/my-first-insight.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/11/24/nobody-will-open.html",
+				
+				"content_html": "<blockquote>\n<p>“Nobody will open a book and wish it contains more types of letters or be disappointed because it is, again, just another variation of the same alphabet.”</p>\n<p>-Sönke Ahrens</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“Nobody will open a book and wish it contains more types of letters or be disappointed because it is, again, just another variation of the same alphabet.”\n>\n>-Sönke Ahrens\n\n#Quotes\n",
+				"date_published": "2024-11-24T08:30:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/11/24/nobody-will-open.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/11/23/truth-is-the.html",
 				
 				"content_html": "<blockquote>\n<p>“Truth is the daughter of time, not of authority.”</p>\n<p>-Francis Bacon</p>\n</blockquote>\n<p>#Quotes</p>\n",
@@ -36,11 +89,10 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/11/20/i-am-reminded.html",
 				
-				"content_html": "<p>I am reminded (yet again!) that I always need to be clarifying, repeating, and doing what can feel like over-explaining in the moment.</p>\n<p>It really, really does save time, reduce friction, and end up building trust.</p>\n",
-				"content_text": "I am reminded (yet again!) that I always need to be clarifying, repeating, and doing what can feel like over-explaining in the moment.\r\n\r\nIt really, really does save time, reduce friction, and end up building trust.\r\n",
+				"content_html": "<blockquote>\n<p>“You must be harsher on yourself and on others: failure to communicate is the fault not of the dull-witted audience but of the unstrategic communicator.”</p>\n<p>-Robert Greene</p>\n</blockquote>\n<p>I am reminded (yet again!) that I always need to be clarifying, repeating, and doing what can feel like over-explaining in the moment.</p>\n<p>It really, really does save time, reduce friction, and end up building trust.</p>\n",
+				"content_text": ">“You must be harsher on yourself and on others: failure to communicate is the fault not of the dull-witted audience but of the unstrategic communicator.”\n>\n>-Robert Greene\n\nI am reminded (yet again!) that I always need to be clarifying, repeating, and doing what can feel like over-explaining in the moment.\r\n\r\nIt really, really does save time, reduce friction, and end up building trust.\r\n",
 				"date_published": "2024-11-20T10:27:04-05:00",
-				"url": "https://www.imminentmurphy.com/2024/11/20/i-am-reminded.html",
-				"tags": ["Product Management","Consulting"]
+				"url": "https://www.imminentmurphy.com/2024/11/20/i-am-reminded.html"
 			},
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/11/19/the-future-is.html",
