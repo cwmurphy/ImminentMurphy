@@ -7,12 +7,49 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/04/in-product-management.html",
+				
+				"content_html": "<p>In product management (like everything else), miscommunications can derail forward momentum.</p>\n<p>And stops and starts can be painful.</p>\n<p>When it happens:</p>\n<ul>\n<li>Don&rsquo;t take it personally.</li>\n<li>Clarify your goals.</li>\n<li>Confirm any and all assumptions.</li>\n</ul>\n<p>Most importantly: revisit the outcomes your clients really need.</p>\n",
+				"content_text": "In product management (like everything else), miscommunications can derail forward momentum.\r\n\r\nAnd stops and starts can be painful.\r\n\r\nWhen it happens:\r\n\r\n- Don't take it personally.\r\n- Clarify your goals.\r\n- Confirm any and all assumptions.\r\n\r\nMost importantly: revisit the outcomes your clients really need.\r\n",
+				"date_published": "2024-12-04T11:22:03-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/04/in-product-management.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/02/this-podcast-about.html",
+				
+				"content_html": "<p>This podcast about how Will Guidara made his restaurant best in the world using &ldquo;<a href=\"https://podcasts.apple.com/us/podcast/the-next-big-idea/id1482067226?i=1000678518011\">unreasonable hospitality</a>&rdquo; is worth a listen.</p>\n<p>One of the best bits - how instead of dreading the unexpected arrival of the food critic, he and his team gamified the process by practicing for it nightly.</p>\n",
+				"content_text": "This podcast about how Will Guidara made his restaurant best in the world using \"[unreasonable hospitality](https://podcasts.apple.com/us/podcast/the-next-big-idea/id1482067226?i=1000678518011)\" is worth a listen.\r\n\r\nOne of the best bits - how instead of dreading the unexpected arrival of the food critic, he and his team gamified the process by practicing for it nightly.\n",
+				"date_published": "2024-12-02T17:28:33-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/02/this-podcast-about.html",
+				"tags": ["Product Management","Consulting"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/01/for-natural-ability.html",
+				
+				"content_html": "<blockquote>\n<p>“For natural ability without training is blind: and training without natural ability is defective, and practice without both natural ability and training is imperfect.”</p>\n<p>-Plutarch</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“For natural ability without training is blind: and training without natural ability is defective, and practice without both natural ability and training is imperfect.”\n>\n>-Plutarch\n\n#Quotes\n",
+				"date_published": "2024-12-01T08:00:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/01/for-natural-ability.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/11/30/this-was-nothing.html",
+				"title": "This was nothing like Tokyo",
+				"content_html": "<p>“This was nothing like Tokyo, where the past, all that remained of it, was nurtured with a nervous care. History there had become a quantity, a rare thing, parceled out by government and preserved by law and corporate funding. Here it seemed the very fabric of things, as if the city were a single growth of stone and brick, uncounted strata of message and meaning, age upon age, generated over the centuries to the dictates of some now-all-but-unreadable DNA of commerce and empire.”</p>\n<p>-William Gibson (Mona Lisa Overdrive)</p>\n<p>#Quotes</p>\n",
+				"content_text": "“This was nothing like Tokyo, where the past, all that remained of it, was nurtured with a nervous care. History there had become a quantity, a rare thing, parceled out by government and preserved by law and corporate funding. Here it seemed the very fabric of things, as if the city were a single growth of stone and brick, uncounted strata of message and meaning, age upon age, generated over the centuries to the dictates of some now-all-but-unreadable DNA of commerce and empire.”\n\n-William Gibson (Mona Lisa Overdrive)\n\n#Quotes\n\n",
+				"date_published": "2024-11-30T08:30:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/11/30/this-was-nothing.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/11/29/blueskys-starter-packs.html",
 				
-				"content_html": "<p>BlueSky’s Starter packs are pretty nifty.</p>\n<p>They’re a unique, differentiating feature that is immediately useful for bootstrapping communities.</p>\n<p>Which raises engagement and participation, core goals for the product.</p>\n<p>In retrospect, they’re pretty obvious.</p>\n",
-				"content_text": "BlueSky’s Starter packs are pretty nifty.\r\n\r\nThey’re a unique, differentiating feature that is immediately useful for bootstrapping communities.\r\n\r\nWhich raises engagement and participation, core goals for the product.\r\n\r\nIn retrospect, they’re pretty obvious.\r\n",
+				"content_html": "<p>BlueSky’s Starter Packs are pretty nifty as far as features go.</p>\n<p>They’re immediately useful for users to bootstrap communities, which makes them unique and differentiating.</p>\n<p>This raises engagement and participation - core goals for the product.</p>\n<p>In retrospect, they’re also fairly obvious. :-)</p>\n",
+				"content_text": "BlueSky’s Starter Packs are pretty nifty as far as features go.\n\nThey’re immediately useful for users to bootstrap communities, which makes them unique and differentiating. \n\nThis raises engagement and participation - core goals for the product.\n\nIn retrospect, they’re also fairly obvious. :-)\n",
 				"date_published": "2024-11-29T08:38:30-05:00",
-				"url": "https://www.imminentmurphy.com/2024/11/29/blueskys-starter-packs.html"
+				"url": "https://www.imminentmurphy.com/2024/11/29/blueskys-starter-packs.html",
+				"tags": ["Product Management"]
 			},
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/11/28/kevin-kelly-writes.html",
