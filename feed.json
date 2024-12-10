@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/10/the-year-is.html",
+				
+				"content_html": "<p>The year is wrapping up.</p>\n<p>After a string of successful releases, my latest work is gracefully winding itself down.</p>\n<p>Wrapping things up always needs to include:</p>\n<ul>\n<li>celebrating the wins</li>\n<li>learning from the challenges</li>\n<li>documenting the outcomes and value delivered</li>\n</ul>\n",
+				"content_text": "The year is wrapping up. \r\n\r\nAfter a string of successful releases, my latest work is gracefully winding itself down.\r\n\r\nWrapping things up always needs to include:\r\n- celebrating the wins\r\n- learning from the challenges\r\n- documenting the outcomes and value delivered\r\n",
+				"date_published": "2024-12-10T09:12:24-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/10/the-year-is.html",
+				"tags": ["Product Management","Consulting"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/09/i-cannot-stress.html",
+				
+				"content_html": "<p>I cannot stress how easy it is for very smart, very successful people to forget this:</p>\n<p>Your product&rsquo;s greatest asset will always be the team behind it.</p>\n<p>The second greatest asset? Your community of users.</p>\n",
+				"content_text": "I cannot stress how easy it is for very smart, very successful people to forget this:\n\nYour product's greatest asset will always be the team behind it.\n\nThe second greatest asset? Your community of users.\n",
+				"date_published": "2024-12-09T08:00:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/09/i-cannot-stress.html",
+				"tags": ["Product Management"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/08/the-brick-walls.html",
+				
+				"content_html": "<blockquote>\n<p>&ldquo;The brick walls are there for a reason. They’re not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.&rdquo;</p>\n<p>-Randy Pausch</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">\"The brick walls are there for a reason. They’re not there to keep us out. The brick walls are there to give us a chance to show how badly we want something.\"\n>\n>-Randy Pausch\n\n#Quotes\n",
+				"date_published": "2024-12-08T07:30:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/08/the-brick-walls.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/07/its-amazing-the.html",
+				
+				"content_html": "<blockquote>\n<p>“It’s amazing the degree to which children treat their own lives as normal.”</p>\n<p>-Douglas Adams</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“It’s amazing the degree to which children treat their own lives as normal.”\n>\n>-Douglas Adams\n\n#Quotes\n",
+				"date_published": "2024-12-07T08:00:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/07/its-amazing-the.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/06/during-planning-sessions.html",
+				
+				"content_html": "<p>During planning sessions, we sometimes talk about all the problems we are presently - deliberately - choosing NOT to solve.</p>\n<p>This generally fosters alignment - but it can also shake loose faulty assumptions and open up new avenues for potential research and experimentation in future sprints.</p>\n",
+				"content_text": "During planning sessions, we sometimes talk about all the problems we are presently - deliberately - choosing NOT to solve.\r\n\r\nThis generally fosters alignment - but it can also shake loose faulty assumptions and open up new avenues for potential research and experimentation in future sprints.\n",
+				"date_published": "2024-12-06T10:57:12-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/06/during-planning-sessions.html",
+				"tags": ["Product Management"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/12/04/in-product-management.html",
 				
 				"content_html": "<p>In product management (like everything else), miscommunications can derail forward momentum.</p>\n<p>And stops and starts can be painful.</p>\n<p>When it happens:</p>\n<ul>\n<li>Don&rsquo;t take it personally.</li>\n<li>Clarify your goals.</li>\n<li>Confirm any and all assumptions.</li>\n</ul>\n<p>Most importantly: revisit the outcomes your clients really need.</p>\n",
