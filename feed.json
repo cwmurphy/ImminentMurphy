@@ -7,6 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/16/the-thing-is.html",
+				
+				"content_html": "<p>The thing is, with any new products or services, you’re going to experiment.</p>\n<p>This is an unavoidable fact. You may chose to blissfully call the activity something else entirely.</p>\n<p>The question really becomes, exactly how costly or intentional or actionable does your company want this process to be?</p>\n",
+				"content_text": "The thing is, with any new products or services, you’re going to experiment.\r\n\r\nThis is an unavoidable fact. You may chose to blissfully call the activity something else entirely. \r\n\r\nThe question really becomes, exactly how costly or intentional or actionable does your company want this process to be?\r\n",
+				"date_published": "2024-12-16T10:18:47-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/16/the-thing-is.html",
+				"tags": ["Product Management","Consulting"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/15/everything-in-nature.html",
+				
+				"content_html": "<p>“Everything in nature has a structure, a way that the parts relate to one another, which is generally fluid and not so easy to conceptualize. Our minds naturally tend to separate things out, to think in terms of nouns instead of verbs. In general you want to pay greater attention to the relationships between things, because that will give you a greater feel for the picture as a whole.”</p>\n<p>-Robert Greene</p>\n<p>#Quotes</p>\n",
+				"content_text": "“Everything in nature has a structure, a way that the parts relate to one another, which is generally fluid and not so easy to conceptualize. Our minds naturally tend to separate things out, to think in terms of nouns instead of verbs. In general you want to pay greater attention to the relationships between things, because that will give you a greater feel for the picture as a whole.”\n\n-Robert Greene\n\n#Quotes\n",
+				"date_published": "2024-12-15T07:11:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/15/everything-in-nature.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/14/learning-from-others.html",
+				"title": "Learning from others’ mistakes…",
+				"content_html": "<blockquote>\n<p>“War is fraught with random dangers and careless missteps. Clear orders and relentless rehearsals based on intelligence and repetitive training build muscle—not once or twice, but hundreds of times. Read history, but study a few battles in depth. Learning from others’ mistakes is far smarter than putting your own lads in body bags.“</p>\n<p>-General Jim Mattis</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“War is fraught with random dangers and careless missteps. Clear orders and relentless rehearsals based on intelligence and repetitive training build muscle—not once or twice, but hundreds of times. Read history, but study a few battles in depth. Learning from others’ mistakes is far smarter than putting your own lads in body bags.“\n>\n>-General Jim Mattis\n\n#Quotes\n",
+				"date_published": "2024-12-14T08:30:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/14/learning-from-others.html",
+				"tags": ["Quotes","Strategy"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/13/recognizing-someones-talent.html",
+				
+				"content_html": "<p>Recognizing someone’s talent costs nothing.</p>\n<p>Don’t underestimate the power of a simple, sincere compliment.</p>\n<p>In this chaotic world where everyone is working so very hard, a quick “you know, you’re really good at your job” can go a long way.</p>\n",
+				"content_text": "Recognizing someone’s talent costs nothing.\r\n\r\nDon’t underestimate the power of a simple, sincere compliment. \r\n\r\nIn this chaotic world where everyone is working so very hard, a quick “you know, you’re really good at your job” can go a long way.\r\n",
+				"date_published": "2024-12-13T21:49:21-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/13/recognizing-someones-talent.html"
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/12/envision-the-ideal.html",
+				
+				"content_html": "<blockquote>\n<p>&ldquo;Envision the ideal end to any project before you begin. Even the best gigs don&rsquo;t last forever. Nor should they.&rdquo;</p>\n<p>-Samin Nosrat</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">\"Envision the ideal end to any project before you begin. Even the best gigs don't last forever. Nor should they.\"\r\n>\r\n>-Samin Nosrat\r\n\r\n#Quotes\r\n",
+				"date_published": "2024-12-12T14:02:04-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/12/envision-the-ideal.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/12/10/the-year-is.html",
 				
 				"content_html": "<p>The year is wrapping up.</p>\n<p>After a string of successful releases, my latest work is gracefully winding itself down.</p>\n<p>Wrapping things up always needs to include:</p>\n<ul>\n<li>celebrating the wins</li>\n<li>learning from the challenges</li>\n<li>documenting the outcomes and value delivered</li>\n</ul>\n",
