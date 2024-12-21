@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/21/a-tendency-to.html",
+				
+				"content_html": "<p>“A tendency to get married to positions. There is a saying that bad traders divorce their spouse sooner than abandon their positions. Loyalty to ideas is not a good thing for traders, scientists—or anyone.”</p>\n<p>-Nassim Taleb</p>\n<p>#Quotes</p>\n",
+				"content_text": "“A tendency to get married to positions. There is a saying that bad traders divorce their spouse sooner than abandon their positions. Loyalty to ideas is not a good thing for traders, scientists—or anyone.”\n\n-Nassim Taleb\n\n#Quotes\n",
+				"date_published": "2024-12-21T08:30:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/21/a-tendency-to.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/20/no-loose-ends.html",
+				
+				"content_html": "<p>(Last working day of the year today.)</p>\n<p>No loose ends, no ambiguity.</p>\n<p>Pickup and put away all your toys.</p>\n<p>Finish what you started and do it with style.</p>\n",
+				"content_text": "(Last working day of the year today.)\n\nNo loose ends, no ambiguity. \n\nPickup and put away all your toys.  \n\nFinish what you started and do it with style.\n",
+				"date_published": "2024-12-20T11:27:36-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/20/no-loose-ends.html",
+				"tags": ["Product Management","Consulting"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/19/its-just-like.html",
+				
+				"content_html": "<p>It’s like Grandpa used to say, &ldquo;It’s worth taking a few extra minutes to get clear on your moral compass once your hammer and saw begin making decisions on your behalf.”</p>\n",
+				"content_text": "It’s like Grandpa used to say, \"It’s worth taking a few extra minutes to get clear on your moral compass once your hammer and saw begin making decisions on your behalf.”\n\n",
+				"date_published": "2024-12-19T10:01:07-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/19/its-just-like.html",
+				"tags": ["AI"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/18/earlier-i-asked.html",
+				
+				"content_html": "<p>I asked ChatGPT to always remember Asimov&rsquo;s 3 Laws of Robotics and apply them to any responses it gives me.</p>\n<p>If it ever thinks one of the Laws will prevent it from answering fully, I asked it to point this out and explain the violation.</p>\n<p>Just a totally normal Wednesday morning.</p>\n",
+				"content_text": "I asked ChatGPT to always remember Asimov's 3 Laws of Robotics and apply them to any responses it gives me.\n\nIf it ever thinks one of the Laws will prevent it from answering fully, I asked it to point this out and explain the violation.\n\nJust a totally normal Wednesday morning.\n",
+				"date_published": "2024-12-18T10:09:16-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/18/earlier-i-asked.html",
+				"tags": ["Misc","AI"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/17/after-noticing-the.html",
+				
+				"content_html": "<p>After noticing the whole VUCA world has gone sideways out from underneath you, it’s a bit too late to wish you had gone for that run earlier.</p>\n<p>Anticipate disruption and prioritize accordingly.</p>\n",
+				"content_text": "After noticing the whole VUCA world has gone sideways out from underneath you, it’s a bit too late to wish you had gone for that run earlier.\r\n\r\nAnticipate disruption and prioritize accordingly.\n",
+				"date_published": "2024-12-17T10:03:20-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/17/after-noticing-the.html",
+				"tags": ["Misc"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/12/16/the-thing-is.html",
 				
 				"content_html": "<p>The thing is, with any new products or services, you’re going to experiment.</p>\n<p>This is an unavoidable fact. You may chose to blissfully call the activity something else entirely.</p>\n<p>The question really becomes, exactly how costly or intentional or actionable does your company want this process to be?</p>\n",
@@ -18,8 +63,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/12/15/everything-in-nature.html",
 				
-				"content_html": "<p>“Everything in nature has a structure, a way that the parts relate to one another, which is generally fluid and not so easy to conceptualize. Our minds naturally tend to separate things out, to think in terms of nouns instead of verbs. In general you want to pay greater attention to the relationships between things, because that will give you a greater feel for the picture as a whole.”</p>\n<p>-Robert Greene</p>\n<p>#Quotes</p>\n",
-				"content_text": "“Everything in nature has a structure, a way that the parts relate to one another, which is generally fluid and not so easy to conceptualize. Our minds naturally tend to separate things out, to think in terms of nouns instead of verbs. In general you want to pay greater attention to the relationships between things, because that will give you a greater feel for the picture as a whole.”\n\n-Robert Greene\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“Everything in nature has a structure, a way that the parts relate to one another, which is generally fluid and not so easy to conceptualize. Our minds naturally tend to separate things out, to think in terms of nouns instead of verbs. In general you want to pay greater attention to the relationships between things, because that will give you a greater feel for the picture as a whole.”</p>\n<p>-Robert Greene</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“Everything in nature has a structure, a way that the parts relate to one another, which is generally fluid and not so easy to conceptualize. Our minds naturally tend to separate things out, to think in terms of nouns instead of verbs. In general you want to pay greater attention to the relationships between things, because that will give you a greater feel for the picture as a whole.”\n>\n>-Robert Greene\n\n#Quotes\n",
 				"date_published": "2024-12-15T07:11:00-05:00",
 				"url": "https://www.imminentmurphy.com/2024/12/15/everything-in-nature.html",
 				"tags": ["Quotes"]
@@ -125,8 +170,8 @@
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/11/30/this-was-nothing.html",
 				"title": "This was nothing like Tokyo",
-				"content_html": "<p>“This was nothing like Tokyo, where the past, all that remained of it, was nurtured with a nervous care. History there had become a quantity, a rare thing, parceled out by government and preserved by law and corporate funding. Here it seemed the very fabric of things, as if the city were a single growth of stone and brick, uncounted strata of message and meaning, age upon age, generated over the centuries to the dictates of some now-all-but-unreadable DNA of commerce and empire.”</p>\n<p>-William Gibson (Mona Lisa Overdrive)</p>\n<p>#Quotes</p>\n",
-				"content_text": "“This was nothing like Tokyo, where the past, all that remained of it, was nurtured with a nervous care. History there had become a quantity, a rare thing, parceled out by government and preserved by law and corporate funding. Here it seemed the very fabric of things, as if the city were a single growth of stone and brick, uncounted strata of message and meaning, age upon age, generated over the centuries to the dictates of some now-all-but-unreadable DNA of commerce and empire.”\n\n-William Gibson (Mona Lisa Overdrive)\n\n#Quotes\n\n",
+				"content_html": "<blockquote>\n<p>“This was nothing like Tokyo, where the past, all that remained of it, was nurtured with a nervous care. History there had become a quantity, a rare thing, parceled out by government and preserved by law and corporate funding. Here it seemed the very fabric of things, as if the city were a single growth of stone and brick, uncounted strata of message and meaning, age upon age, generated over the centuries to the dictates of some now-all-but-unreadable DNA of commerce and empire.”</p>\n<p>-William Gibson (Mona Lisa Overdrive)</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“This was nothing like Tokyo, where the past, all that remained of it, was nurtured with a nervous care. History there had become a quantity, a rare thing, parceled out by government and preserved by law and corporate funding. Here it seemed the very fabric of things, as if the city were a single growth of stone and brick, uncounted strata of message and meaning, age upon age, generated over the centuries to the dictates of some now-all-but-unreadable DNA of commerce and empire.”\n>\n>-William Gibson (Mona Lisa Overdrive)\n\n#Quotes\n\n",
 				"date_published": "2024-11-30T08:30:00-05:00",
 				"url": "https://www.imminentmurphy.com/2024/11/30/this-was-nothing.html",
 				"tags": ["Quotes"]
@@ -174,7 +219,7 @@
 				"content_text": "My first insight into AI's genuine utility came when I asked ChatGPT to tell me how an unfamiliar Python library worked, as if I were a young child.\n\nEven if its answer had been wrong - like an ill-advised coworker - it gave enough insight to remove my block and keep moving forward.\n\n(But it wasn't.)\n",
 				"date_published": "2024-11-25T10:19:35-05:00",
 				"url": "https://www.imminentmurphy.com/2024/11/25/my-first-insight.html",
-				"tags": ["Misc"]
+				"tags": ["Misc","AI"]
 			},
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/11/24/nobody-will-open.html",
@@ -305,7 +350,8 @@
 				"content_html": "<p>I&rsquo;m pretty sure that asking an AI to create complex regular expressions based upon your conversations should be a specific part of the Turing test.</p>\n",
 				"content_text": "I'm pretty sure that asking an AI to create complex regular expressions based upon your conversations should be a specific part of the Turing test.\n",
 				"date_published": "2024-11-04T11:17:44-05:00",
-				"url": "https://www.imminentmurphy.com/2024/11/04/im-pretty-sure.html"
+				"url": "https://www.imminentmurphy.com/2024/11/04/im-pretty-sure.html",
+				"tags": ["AI"]
 			},
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/11/02/without-gratitude-what.html",
@@ -715,9 +761,10 @@
 				"id": "http://imminentmurphy.micro.blog/2024/08/18/in-the-old.html",
 				
 				"content_html": "<blockquote>\n<p>“In the old days, children had to memorize many irrelevant things they didn’t understand, but they also didn’t have a concept of their future then. Thanks to AI, the information in their lives is no longer so disconnected, so random.”</p>\n<p>-Kai-fu Lee</p>\n</blockquote>\n<p>#Quotes</p>\n",
-				"content_text": ">“In the old days, children had to memorize many irrelevant things they didn’t understand, but they also didn’t have a concept of their future then. Thanks to AI, the information in their lives is no longer so disconnected, so random.”\r\n>\r\n>-Kai-fu Lee\r\n\r\n#Quotes\n",
+				"content_text": ">“In the old days, children had to memorize many irrelevant things they didn’t understand, but they also didn’t have a concept of their future then. Thanks to AI, the information in their lives is no longer so disconnected, so random.”\n>\n>-Kai-fu Lee\n\n#Quotes\n",
 				"date_published": "2024-08-18T08:59:42-05:00",
-				"url": "https://www.imminentmurphy.com/2024/08/18/in-the-old.html"
+				"url": "https://www.imminentmurphy.com/2024/08/18/in-the-old.html",
+				"tags": ["AI"]
 			},
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/08/17/it-is-a.html",
@@ -857,9 +904,10 @@
 				"id": "http://imminentmurphy.micro.blog/2024/07/21/i-think-computer.html",
 				
 				"content_html": "<blockquote>\n<p>“I think computer viruses should count as life. I think it says something about human nature that the only form of life we have created so far is purely destructive. We’ve created life in our own image.”</p>\n<p>-Stephen Hawking</p>\n</blockquote>\n<p>I do I wonder what he would have thought about ChatGPT.</p>\n<p>#Quotes</p>\n",
-				"content_text": ">“I think computer viruses should count as life. I think it says something about human nature that the only form of life we have created so far is purely destructive. We’ve created life in our own image.” \r\n>\r\n>-Stephen Hawking\r\n\r\nI do I wonder what he would have thought about ChatGPT.\r\n\r\n#Quotes\n",
+				"content_text": ">“I think computer viruses should count as life. I think it says something about human nature that the only form of life we have created so far is purely destructive. We’ve created life in our own image.” \n>\n>-Stephen Hawking\n\nI do I wonder what he would have thought about ChatGPT.\n\n#Quotes\n",
 				"date_published": "2024-07-21T11:36:38-05:00",
-				"url": "https://www.imminentmurphy.com/2024/07/21/i-think-computer.html"
+				"url": "https://www.imminentmurphy.com/2024/07/21/i-think-computer.html",
+				"tags": ["AI"]
 			},
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/07/19/the-universe-is.html",
@@ -1959,7 +2007,7 @@
 				"content_text": "I asked ChatGPT (3.5) to tell me how to be the best possible product manager in a single sentence:\n\n“Anticipate user needs, communicate effectively, and prioritize features to deliver a successful product.”\n",
 				"date_published": "2024-01-22T09:00:00-05:00",
 				"url": "https://www.imminentmurphy.com/2024/01/22/i-asked-chatgpt.html",
-				"tags": ["Product Management"]
+				"tags": ["Product Management","AI"]
 			},
 			{
 				"id": "http://imminentmurphy.micro.blog/2024/01/21/we-will-all.html",
