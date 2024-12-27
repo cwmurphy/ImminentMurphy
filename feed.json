@@ -7,10 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/27/the-dearth-of-any-meaningful.html",
+				
+				"content_html": "<p>The dearth of any meaningful innovation (or competition) in the ebook market generally makes me sad.</p>\n<p>For example: how about offering the option of excluding any end-matter (appendices, indices, etc) from our Percentage Read calculations?</p>\n",
+				"content_text": "The dearth of any meaningful innovation (or competition) in the ebook market generally makes me sad.\r\n\r\nFor example: how about offering the option of excluding any end-matter (appendices, indices, etc) from our Percentage Read calculations?\r\n",
+				"date_published": "2024-12-27T09:36:01-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/27/the-dearth-of-any-meaningful.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/25/is-a-muppet-family-christmas.html",
+				
+				"content_html": "<p>Is “A Muppet Family Christmas” - uniting Muppets, Sesame Street, and Fraggle Rock - the perfect holiday special? Surely.</p>\n<p><a href=\"https://youtu.be/Ovb56dlcodE?si=_CzfGBh_DBF7XXZO\">youtu.be/Ovb56dlco&hellip;</a></p>\n",
+				"content_text": "Is “A Muppet Family Christmas” - uniting Muppets, Sesame Street, and Fraggle Rock - the perfect holiday special? Surely.\r\n\r\n[youtu.be/Ovb56dlco...](https://youtu.be/Ovb56dlcodE?si=_CzfGBh_DBF7XXZO)\r\n",
+				"date_published": "2024-12-25T09:26:43-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/25/is-a-muppet-family-christmas.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/23/and-just-like-that-a.html",
+				
+				"content_html": "<p>And just like that, a copy of Sagan’s “Demon Haunted World” drops into my lap at what appears to be the perfect time.</p>\n",
+				"content_text": "And just like that, a copy of Sagan’s “Demon Haunted World” drops into my lap at what appears to be the perfect time.\n",
+				"date_published": "2024-12-23T09:58:47-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/23/and-just-like-that-a.html",
+				"tags": ["Misc"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2024/12/22/if-i-knew.html",
+				
+				"content_html": "<blockquote>\n<p>“If I knew where I was going, I wouldn’t go there.”</p>\n<p>-Frank Gehry</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“If I knew where I was going, I wouldn’t go there.”\n>\n>-Frank Gehry\n\n#Quotes\n",
+				"date_published": "2024-12-22T08:25:00-05:00",
+				"url": "https://www.imminentmurphy.com/2024/12/22/if-i-knew.html",
+				"tags": ["Quotes","Product Management","Consulting"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2024/12/21/a-tendency-to.html",
 				
-				"content_html": "<p>“A tendency to get married to positions. There is a saying that bad traders divorce their spouse sooner than abandon their positions. Loyalty to ideas is not a good thing for traders, scientists—or anyone.”</p>\n<p>-Nassim Taleb</p>\n<p>#Quotes</p>\n",
-				"content_text": "“A tendency to get married to positions. There is a saying that bad traders divorce their spouse sooner than abandon their positions. Loyalty to ideas is not a good thing for traders, scientists—or anyone.”\n\n-Nassim Taleb\n\n#Quotes\n",
+				"content_html": "<blockquote>\n<p>“A tendency to get married to positions. There is a saying that bad traders divorce their spouse sooner than abandon their positions. Loyalty to ideas is not a good thing for traders, scientists—or anyone.”</p>\n<p>-Nassim Taleb</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“A tendency to get married to positions. There is a saying that bad traders divorce their spouse sooner than abandon their positions. Loyalty to ideas is not a good thing for traders, scientists—or anyone.”\n>\n>-Nassim Taleb\n\n#Quotes\n",
 				"date_published": "2024-12-21T08:30:00-05:00",
 				"url": "https://www.imminentmurphy.com/2024/12/21/a-tendency-to.html",
 				"tags": ["Quotes"]
