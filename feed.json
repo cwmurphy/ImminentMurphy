@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2025/01/15/great-hybrid-meetings-are-such.html",
+				
+				"content_html": "<p>Good hybrid meetings are such a balancing act.</p>\n<p>You need to maximize the humans who are in immediate proximity to each other - without accidentally alienating everyone else.</p>\n<p>And that means ensuring that most everything that happens gracefully degrades to the lowest common denominator connection.</p>\n",
+				"content_text": "Good hybrid meetings are such a balancing act.\n\nYou need to maximize the humans who are in immediate proximity to each other - without accidentally alienating everyone else.\n\nAnd that means ensuring that most everything that happens gracefully degrades to the lowest common denominator connection.\n",
+				"date_published": "2025-01-15T12:03:40-05:00",
+				"url": "https://www.imminentmurphy.com/2025/01/15/great-hybrid-meetings-are-such.html",
+				"tags": ["Product Management","Consulting"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2025/01/12/a-cynic-is.html",
+				
+				"content_html": "<blockquote>\n<p>“A cynic is a man who knows the price of everything and the value of nothing.”</p>\n<p>-Oscar Wilde</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“A cynic is a man who knows the price of everything and the value of nothing.”\n>\n>-Oscar Wilde\n\n#Quotes\n",
+				"date_published": "2025-01-12T08:30:00-05:00",
+				"url": "https://www.imminentmurphy.com/2025/01/12/a-cynic-is.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2025/01/11/as-to-methods.html",
 				
 				"content_html": "<blockquote>\n<p>“As to methods there may be a million and then some, but principles are few. The man who grasps principles can successfully select his own methods. The man who tries methods, ignoring principles, is sure to have trouble.”</p>\n<p>–Ralph Waldo Emerson</p>\n</blockquote>\n<p>#Quotes</p>\n",
