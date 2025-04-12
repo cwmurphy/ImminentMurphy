@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://imminentmurphy.micro.blog/2025/04/12/every-individual-is-unavoidably-an.html",
+				
+				"content_html": "<blockquote>\n<p>“Every individual is unavoidably an investor, too. When you choose a career, you act on your belief that the kind of work you do will be valuable decades from now.”</p>\n<p>-Peter Thiel and Blake Masters</p>\n</blockquote>\n<p>#Quotes</p>\n",
+				"content_text": ">“Every individual is unavoidably an investor, too. When you choose a career, you act on your belief that the kind of work you do will be valuable decades from now.”\n>\n>-Peter Thiel and Blake Masters\n\n#Quotes\n",
+				"date_published": "2025-04-12T17:39:09-04:00",
+				"url": "https://www.imminentmurphy.com/2025/04/12/every-individual-is-unavoidably-an.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://imminentmurphy.micro.blog/2025/04/10/proprietary-formats-rot.html",
+				"title": "Proprietary formats rot",
+				"content_html": "<p>I keep returning to these two recent articles that extoll the virtues of using simple, open, resilient file formats:</p>\n<p><a href=\"https://ia.net/topics/markdown-and-the-slow-fade-of-the-formatting-fetish\">Markdown and the Slow Fade of the Formatting Fetish</a></p>\n<p><a href=\"https://medialab.sciencespo.fr/actu/a-love-letter-to-the-csv-format/\">A love letter to the CSV format</a></p>\n<p>This is how simplicity scales within the ecosystem. Plain text persists. The more open and universal your format, the longer your message lives.</p>\n<p>Our ideas deserve a fighting chance to outlive our software stack.</p>\n",
+				"content_text": "I keep returning to these two recent articles that extoll the virtues of using simple, open, resilient file formats:\r\n\r\n[Markdown and the Slow Fade of the Formatting Fetish](https://ia.net/topics/markdown-and-the-slow-fade-of-the-formatting-fetish)\r\n\r\n[A love letter to the CSV format](https://medialab.sciencespo.fr/actu/a-love-letter-to-the-csv-format/)\r\n\r\nThis is how simplicity scales within the ecosystem. Plain text persists. The more open and universal your format, the longer your message lives.\r\n\r\nOur ideas deserve a fighting chance to outlive our software stack.\r\n",
+				"date_published": "2025-04-10T12:09:03-04:00",
+				"url": "https://www.imminentmurphy.com/2025/04/10/proprietary-formats-rot.html",
+				"tags": ["Misc"]
+			},
+			{
 				"id": "http://imminentmurphy.micro.blog/2025/04/07/if-you-want-to-kill.html",
 				
 				"content_html": "<blockquote>\n<p>“If you want to kill creativity: Get five hours of sleep a night, fight traffic for two hours a day, and start each day with a piping hot thermos of a psychoactive drug. This is the unfortunate and inescapable reality of most Americans today.”</p>\n<p>-David Kadavy</p>\n</blockquote>\n<p>#Quotes</p>\n",
